@@ -982,10 +982,10 @@
                             }
                           },
                           {
-                            "string": "如果$$\\lim\\limits_{x \\to x_0}\\frac \\beta \\alpha = C \\equal $$",
+                            "string": "如果$$\\lim\\limits_{x \\to x_0}\\frac \\beta \\alpha = C \\neq 0$$，则称$$\\beta$$与$$\\alpha$$ 是同阶无穷小",
                             "create-time": 1622760950982,
                             "uid": "xs7tqDPPK",
-                            "edit-time": 1622761063096,
+                            "edit-time": 1622761172027,
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },

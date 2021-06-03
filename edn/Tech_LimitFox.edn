@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuid227a1b53-3892-4c85-8bc2-0c789687eb99"
-   536872224]
+   "uuid071178fb-9840-41f5-b34a-deb55f4526b5"
+   536872240]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -1312,10 +1312,10 @@
   [427 :block/parents 423 536872192]
   [427
    :block/string
-   "如果$$\\lim\\limits_{x \\to x_0}\\frac \\beta \\alpha = C \\equal $$"
-   536872224]
+   "如果$$\\lim\\limits_{x \\to x_0}\\frac \\beta \\alpha = C \\neq 0$$，则称$$\\beta$$与$$\\alpha$$ 是同阶无穷小"
+   536872240]
   [427 :block/uid "xs7tqDPPK" 536872191]
   [427 :create/time 1622760950982 536872191]
   [427 :create/user 3 536872191]
-  [427 :edit/time 1622761063096 536872224]
+  [427 :edit/time 1622761172027 536872240]
   [427 :edit/user 3 536872191]]}
