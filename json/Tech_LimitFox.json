@@ -1,0 +1,1198 @@
+[
+  {
+    "create-time": 1622534626211,
+    "title": "June 1st, 2021",
+    ":create/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1622697244120,
+        "uid": "0JGd1fWXI",
+        "edit-time": 1622697244120,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      }
+    ],
+    "uid": "06-01-2021",
+    "edit-time": 1622534626211,
+    ":edit/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    }
+  },
+  {
+    "create-time": 1622687264519,
+    "title": "June 3rd, 2021",
+    ":create/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1622697227644,
+        "uid": "3L7CxqqXd",
+        "edit-time": 1622697227644,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "Import",
+        "children": [
+          {
+            "string": "[[数学]]",
+            "refs": [
+              {
+                "uid": "7qRFDo774"
+              }
+            ],
+            "children": [
+              {
+                "string": "From: 数学.md",
+                "uid": "HWqZasi5j"
+              }
+            ],
+            "uid": "7FdPJi0Ef",
+            ":block/refs": [
+              {
+                ":block/uid": "7qRFDo774"
+              }
+            ]
+          }
+        ],
+        "uid": "o7sxeKDqO"
+      }
+    ],
+    "uid": "06-03-2021",
+    "edit-time": 1622687264519,
+    ":edit/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    }
+  },
+  {
+    "create-time": 1622697457445,
+    "title": "数学",
+    "children": [
+      {
+        "string": "数学词汇列表",
+        "create-time": 1622668470000,
+        "children": [
+          {
+            "string": "高等数学基础",
+            "create-time": 1622668470000,
+            "children": [
+              {
+                "string": "函数",
+                "create-time": 1622668470000,
+                "children": [
+                  {
+                    "string": "函数的定义",
+                    "create-time": 1622668470000,
+                    "uid": "MAWUBW25T",
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "几种函数",
+                    "create-time": 1622668470000,
+                    "children": [
+                      {
+                        "string": "分段函数: $$f(x)=\\begin{cases}\\sqrt x, &x≥0\\\\ -x, &x<0\\end{cases}$$",
+                        "create-time": 1622668470000,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "反函数:",
+                            "create-time": 1622668470000,
+                            "uid": "H1kXq7juv",
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "显函数与隐函数:",
+                            "create-time": 1622668470000,
+                            "uid": "EAYVRy2rb",
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "特性",
+                            "create-time": 1622668470000,
+                            "children": [
+                              {
+                                "string": "奇偶性",
+                                "create-time": 1622668470000,
+                                "uid": "hM6G9Q3GS",
+                                ":create/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                }
+                              },
+                              {
+                                "string": "周期性",
+                                "create-time": 1622668470000,
+                                "children": [
+                                  {
+                                    "string": "$$f(x+T) = f(x)$$",
+                                    "create-time": 1622668470000,
+                                    "uid": "fB9IG_GhY",
+                                    "edit-time": 1622700672426,
+                                    ":create/user": {
+                                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                    }
+                                  }
+                                ],
+                                "uid": "lGsdRejkl",
+                                ":create/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                }
+                              },
+                              {
+                                "string": "单调性",
+                                "create-time": 1622668470000,
+                                "children": [
+                                  {
+                                    "string": "单调增加",
+                                    "create-time": 1622668470000,
+                                    "children": [
+                                      {
+                                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FZlBf-Ca27E.png?alt=media&token=df28aa3d-9fb1-4252-92b2-48e284d38a9c)",
+                                        "props": {
+                                          "image-size": {
+                                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FZlBf-Ca27E.png?alt=media&token=df28aa3d-9fb1-4252-92b2-48e284d38a9c": {
+                                              "width": 331,
+                                              "height": null
+                                            }
+                                          }
+                                        },
+                                        "create-time": 1622700721154,
+                                        ":block/props": {
+                                          ":image-size": {
+                                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FZlBf-Ca27E.png?alt=media&token=df28aa3d-9fb1-4252-92b2-48e284d38a9c": {
+                                              ":width": 331,
+                                              ":height": null
+                                            }
+                                          }
+                                        },
+                                        ":create/user": {
+                                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                        },
+                                        "uid": "iDk6FFz7x",
+                                        "edit-time": 1622700829255,
+                                        ":edit/user": {
+                                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "J8FbHaOhf",
+                                    ":create/user": {
+                                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                    }
+                                  },
+                                  {
+                                    "string": "单调减少",
+                                    "create-time": 1622668470000,
+                                    "children": [
+                                      {
+                                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FegL0qNz26n.png?alt=media&token=bae7de08-8b3a-4a22-8fc8-57645f1a536c)",
+                                        "props": {
+                                          "image-size": {
+                                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FegL0qNz26n.png?alt=media&token=bae7de08-8b3a-4a22-8fc8-57645f1a536c": {
+                                              "width": 338,
+                                              "height": null
+                                            }
+                                          }
+                                        },
+                                        "create-time": 1622700687113,
+                                        ":block/props": {
+                                          ":image-size": {
+                                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FegL0qNz26n.png?alt=media&token=bae7de08-8b3a-4a22-8fc8-57645f1a536c": {
+                                              ":width": 338,
+                                              ":height": null
+                                            }
+                                          }
+                                        },
+                                        ":create/user": {
+                                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                        },
+                                        "uid": "SkfXoDn02",
+                                        "edit-time": 1622700848162,
+                                        ":edit/user": {
+                                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "uHTGp_0uC",
+                                    ":create/user": {
+                                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                    }
+                                  }
+                                ],
+                                "uid": "Z0KOTRntp",
+                                ":create/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                }
+                              }
+                            ],
+                            "uid": "wxsORCYTq",
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "mAmyvr-8q",
+                        "edit-time": 1622700660000,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "HWxYHpOre",
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "XDbuQbMZ4",
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "极限",
+                "create-time": 1622668470000,
+                "children": [
+                  {
+                    "string": "通项： $$u_n$$",
+                    "create-time": 1622668470000,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "按照一定次数排列的一列数：$$u_1, u_2, u_3, ... , u_n, ...$$",
+                        "create-time": 1622668470000,
+                        "uid": "WgnbOug6q",
+                        "edit-time": 1622700882630,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$u_n$$叫做通项",
+                        "create-time": 1622668470000,
+                        "uid": "FJIsaylqL",
+                        "edit-time": 1622700890030,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "S0Y1tyF3t",
+                    "edit-time": 1622700875352,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "收敛和发散",
+                    "create-time": 1622668470000,
+                    "children": [
+                      {
+                        "string": "对于数列 $$\\lbrace u_n \\rbrace$$，如果当 n 无限增大时，其通项无限接近于一个常数 A，则称该数列以 A 为极限或称数列^^收敛于 A^^，否则称数列为^^发散^^。",
+                        "create-time": 1622668470000,
+                        "uid": "pKN3JnjSD",
+                        "edit-time": 1622700901608,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$\\lim\\limits_{n \\to \\infty} u_n = A， 或\\ u_n \\to (n \\to \\infty)$$",
+                        "create-time": 1622668470000,
+                        "uid": "zFcA0Xa9d",
+                        "edit-time": 1622701243422,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "收敛",
+                        "create-time": 1622668470000,
+                        "children": [
+                          {
+                            "string": "$$\\lim\\limits_{n \\to \\infty} \\frac{1}{3^n} = 0$$",
+                            "create-time": 1622668470000,
+                            "uid": "DVsw4LE2j",
+                            "edit-time": 1622701226092,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "$$\\lim\\limits_{n \\to \\infty} \\frac {n}{n+1} = 1$$",
+                            "create-time": 1622668470000,
+                            "uid": "26eJ6gvpz",
+                            "edit-time": 1622701207420,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "1EyZsIgc2",
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "不存在",
+                        "create-time": 1622668470000,
+                        "children": [
+                          {
+                            "string": "$$\\lim\\limits_{n \\to \\infty} 2^n$$",
+                            "create-time": 1622668470000,
+                            "uid": "2CHcG20ZL",
+                            "edit-time": 1622701235963,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "ZXRY-EEyN",
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "p17Cszd6A",
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "符号表示",
+                    "create-time": 1622668470000,
+                    "children": [
+                      {
+                        "string": "$$x \\to \\infty$$  ：当$$|x| $$无限增大时",
+                        "create-time": 1622668470000,
+                        "uid": "zDwh9UTsR",
+                        "edit-time": 1622701276818,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$x \\to +\\infty$$:  当 $$x$$ 无限增大时",
+                        "create-time": 1622668470000,
+                        "uid": "jfw1ZLYKn",
+                        "edit-time": 1622701293143,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$x \\to -\\infty$$ : 当 $$x$$  无限减少时",
+                        "create-time": 1622668470000,
+                        "uid": "vJLUkQnGd",
+                        "edit-time": 1622701374296,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$x \\to x_0 $$: 当 $$x$$ 从$$x_0$$ 的左右两侧无限接近于$$x_0$$ 时",
+                        "create-time": 1622668470000,
+                        "uid": "dtYZOpDy-",
+                        "edit-time": 1622701405005,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$x \\to x_0^+$$ : 当$$x$$ 从$$x_0$$ 的右侧无限接近于$$x_0$$ 时",
+                        "create-time": 1622668470000,
+                        "uid": "vqBkOWMjA",
+                        "edit-time": 1622701497781,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$x \\to x_0^-$$ : 当$$x$$ 从$$x_0$$ 的左侧无限接近于$$x_0$$ 时",
+                        "create-time": 1622668470000,
+                        "uid": "eGbMuZncL",
+                        "edit-time": 1622701531884,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "ENxFpNffY",
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "相关计算",
+                    "create-time": 1622668470000,
+                    "children": [
+                      {
+                        "string": "$$\\lim_{x \\to + \\infty}e^{-x} = 0$$",
+                        "create-time": 1622701726150,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FT9-bga7qpo.png?alt=media&token=a82a2da5-6722-4ef8-8a0f-d406a587d194)",
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FT9-bga7qpo.png?alt=media&token=a82a2da5-6722-4ef8-8a0f-d406a587d194": {
+                                  "width": 166,
+                                  "height": null
+                                }
+                              }
+                            },
+                            "create-time": 1622668470000,
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FT9-bga7qpo.png?alt=media&token=a82a2da5-6722-4ef8-8a0f-d406a587d194": {
+                                  ":width": 166,
+                                  ":height": null
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            "uid": "Hgn0H479V",
+                            "edit-time": 1622701726158,
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "rq_9QkcFV",
+                        "edit-time": 1622701726150,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$\\lim\\limits_{x \\to \\infty} \\frac 1{x} = 0$$",
+                        "create-time": 1622668470000,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FKQq5oGgEAC.png?alt=media&token=8e346a8d-667c-4dc8-ba94-fb275443e7f7)",
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FKQq5oGgEAC.png?alt=media&token=8e346a8d-667c-4dc8-ba94-fb275443e7f7": {
+                                  "width": 192,
+                                  "height": null
+                                }
+                              }
+                            },
+                            "create-time": 1622701731852,
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FKQq5oGgEAC.png?alt=media&token=8e346a8d-667c-4dc8-ba94-fb275443e7f7": {
+                                  ":width": 192,
+                                  ":height": null
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            "uid": "t4uLNTNTi",
+                            "edit-time": 1622701762705,
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "TrBcrGPmO",
+                        "edit-time": 1622701802967,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$\\lim\\limits_{x \\to -\\infty}arctanx = -\\frac \\pi 2$$",
+                        "create-time": 1622668470000,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2Ffl172Xfbi9.png?alt=media&token=8853dad4-3df5-4684-b39d-7f3f067622fd)",
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2Ffl172Xfbi9.png?alt=media&token=8853dad4-3df5-4684-b39d-7f3f067622fd": {
+                                  "width": 231,
+                                  "height": null
+                                }
+                              }
+                            },
+                            "create-time": 1622701775920,
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2Ffl172Xfbi9.png?alt=media&token=8853dad4-3df5-4684-b39d-7f3f067622fd": {
+                                  ":width": 231,
+                                  ":height": null
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            "uid": "JNItgLT6y",
+                            "edit-time": 1622701832886,
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "MTPkLp_wT",
+                        "edit-time": 1622701795166,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "-Jzgp8exw",
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "函数在 $$x_0$$ 的邻域内有定义，$$\\lim _{x \\to x_0} f(x) = A \\  或, \\  f(x)\\to A(x \\to x_0)$$",
+                    "create-time": 1622668470000,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "例$$\\lim_{x \\to 1} \\frac {x^2-1}{x-1} = \\lim_{x \\to 1} \\frac {(x-1)(x+1)}{x-1} = 2$$  ^^约掉一切^^为$$(x+1) = 2$$",
+                        "create-time": 1622668470000,
+                        "uid": "DMnJP-7LC",
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "ZA2nANAfs",
+                    "edit-time": 1622697500656,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "左、右极限",
+                    "create-time": 1622668470000,
+                    "children": [
+                      {
+                        "string": "函数在左半邻域、右半邻域内有定义：$$(x_0, x_0+\\delta),(x_0-\\delta, x_0)$$",
+                        "create-time": 1622668470000,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "$$\\lim_{x \\to x_0^+} f(x) = A \\ 或, \\ f(x) \\to A(x \\to x_0^+)$$ 或, $$\\ f(x_0 + 0) = A$$",
+                            "create-time": 1622668470000,
+                            "uid": "n_Hpd-h4w",
+                            "edit-time": 1622713954951,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "$$\\lim_{x \\to x_0^-} f(x) = A \\ 或, \\ f(x) \\to A(x \\to x_0^-) \\ 或, \\ f(x_0 - 0) = A$$",
+                            "create-time": 1622668470000,
+                            "uid": "xJdT0yFfe",
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "B88vA1IqU",
+                        "edit-time": 1622697685594,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "cHF0oCNSR",
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "$$\\lim\\limits_{x \\to x_0} f(x) = A$$ 的充要条件是 $$\\lim\\limits_{x \\to x_0^-} f(x)= \\lim\\limits_{x \\to x_0^+}f(x) = A$$",
+                    "create-time": 1622668470000,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "$$f(x)=\\begin{cases}x-1, &x<0 \\\\ 0, &x=0 \\\\ x+1, &x>0\\end{cases}$$\n求当$$x \\to 0$$时$$f(x)$$的极限？",
+                        "create-time": 1622668470000,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "解： \n$$\\lim\\limits_{x \\to 0^+}f(x) = \\lim\\limits_{x \\to 0^+}(x+1) = 1$$\n$$\\lim\\limits_{x \\to 0^-}f(x) = \\lim\\limits_{x \\to 0^-}(x-1) = -1$$\n左右极限存在但不相等\n$$\\therefore$$  $$\\lim\\limits_{x \\to 0}f(x)$$ 不存在",
+                            "create-time": 1622716003223,
+                            "uid": "5k9f3toRn",
+                            "edit-time": 1622717237907,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "KTVcK96ZK",
+                        "edit-time": 1622717242464,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "I6lQ5X2Oa",
+                    "edit-time": 1622701678299,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "4NDJxxRVC",
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "无穷大与无穷小",
+                "create-time": 1622668470000,
+                "children": [
+                  {
+                    "string": "无穷小",
+                    "create-time": 1622717271069,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "以零为极限",
+                        "create-time": 1622717280400,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "$$\\lim\\limits_{x \\to \\infty} \\frac 1 x = 0$$, 则 $$\\frac 1 x$$ 是 $$ x \\to \\infty$$ 时的无穷小。",
+                            "create-time": 1622717290110,
+                            "uid": "uoZYUcX0B",
+                            "edit-time": 1622717415391,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "$$\\lim\\limits_{x \\to 2}(3x - 6) = 0$$，则 $$3x-6$$ 是 $$x \\to 2$$ 的无穷小。",
+                            "create-time": 1622717416567,
+                            "uid": "MMq86x1SY",
+                            "edit-time": 1622717506716,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "_nYPl9T3c",
+                        "edit-time": 1622717288209,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "基本性质",
+                        "create-time": 1622717678821,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "有限个无穷小的代数和仍是无穷小 ",
+                            "create-time": 1622717727117,
+                            "uid": "sotHoG3c0",
+                            "edit-time": 1622717992462,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "有限个无穷小的积仍是无穷小",
+                            "create-time": 1622717913924,
+                            "uid": "xlvDZQXU3",
+                            "edit-time": 1622717936209,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "有界变量与无穷小的积仍是无穷小",
+                            "create-time": 1622717936203,
+                            "uid": "yWGNQap00",
+                            "edit-time": 1622717951826,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "无限个无穷小之后不一定是无穷小 $$\\lim\\limits_{n \\to \\infty}(\\frac 1{n^2} + \\frac 2 {n^2} + \\cdots + \\frac n {n^2} ) = \\lim\\limits_{n \\to \\infty} \\frac {\\frac {n(n+1)} 2} {n^2} = \\lim\\limits_{n \\to \\infty} \\frac {n+1} {2n} = \\frac 1 2$$",
+                            "create-time": 1622717951820,
+                            "uid": "-jugMzO_r",
+                            "edit-time": 1622718186918,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "无穷小的商不一定是无穷小 $$\\lim\\limits_{x \\to 0} \\frac x {2x} = \\frac 1 2$$，$$\\lim \\limits_{x \\to 0} \\frac {x^2}{2x} = 0,  \\lim \\limits_{x \\to 0} \\frac {2x}{x^2} = \\infty$$",
+                            "create-time": 1622718427653,
+                            "uid": "TtGtv4iEV",
+                            "edit-time": 1622718470962,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "极限有无穷小的条件：",
+                            "create-time": 1622718479346,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            "children": [
+                              {
+                                "string": "$$\\lim\\limits_{x \\to x_0} f(x) = A$$ 的充要条件 $$f(x) = A + \\alpha(x)$$ 其中 $$\\alpha(x)$$ 是 $$x \\to x_0$$时的无穷小。",
+                                "create-time": 1622718563885,
+                                "uid": "Lh1eRFU57",
+                                "edit-time": 1622718725253,
+                                ":create/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                }
+                              }
+                            ],
+                            "uid": "eQDS-RcPj",
+                            "edit-time": 1622718563862,
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "6dA2V2TWg",
+                        "edit-time": 1622717688760,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "kzHGmN9Ak",
+                    "edit-time": 1622717280024,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "无穷大",
+                    "create-time": 1622718727327,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "并不是一个很大的数，是相对于变换过程来说。 $$\\lim\\limits_{x \\to x_0}f(x) = \\infty$$ 或 $$f(x) \\to \\infty(x \\to x_0)$$",
+                        "create-time": 1622718769573,
+                        "uid": "rXRw4BMAc",
+                        "edit-time": 1622718922574,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "wde-EfvgQ",
+                    "edit-time": 1622718769581,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "",
+                    "create-time": 1622719039721,
+                    "uid": "VRjRU2pCR",
+                    "edit-time": 1622719039721,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "zu-ob1TNv",
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "连续性与导数",
+                "create-time": 1622668470000,
+                "uid": "F85QCCbXh",
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "偏导数",
+                "create-time": 1622668470000,
+                "uid": "jhEp8_Dr4",
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "方向导数",
+                "create-time": 1622668470000,
+                "uid": "qxoN_0fQi",
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "梯度",
+                "create-time": 1622668470000,
+                "uid": "CFrZp-rlT",
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "76WfiQyuo",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "微积分",
+            "create-time": 1622668470000,
+            "children": [
+              {
+                "string": "微积分基本想法",
+                "create-time": 1622668470000,
+                "uid": "tsHZghbHW",
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "微积分的解释",
+                "create-time": 1622668470000,
+                "uid": "QhGXqBOs4",
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "定积分",
+                "create-time": 1622668470000,
+                "uid": "1-xEhTV7s",
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "定积分的性质",
+                "create-time": 1622668470000,
+                "uid": "1lVRq83Of",
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "牛顿莱布尼茨公式",
+                "create-time": 1622668470000,
+                "uid": "saQ1N71Aq",
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "If7G4EjuF",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "泰勒公式与拉格朗日",
+            "create-time": 1622668470000,
+            "uid": "NvtoedDwU",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "线性代数基础",
+            "create-time": 1622668470000,
+            "uid": "TTXTnnw1T",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "特征值与矩阵分解",
+            "create-time": 1622668470000,
+            "uid": "FBOPqC70f",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "随机变量与概率估计",
+            "create-time": 1622668470000,
+            "uid": "M6jG-Sm04",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "概率论基础",
+            "create-time": 1622668470000,
+            "uid": "K23mgV1mA",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "数据科学必备分布",
+            "create-time": 1622668470000,
+            "uid": "dGyiEadf0",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "核函数变换",
+            "create-time": 1622668470000,
+            "uid": "8hHlLKbW7",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "熵与激活函数",
+            "create-time": 1622668470000,
+            "uid": "28fVsYu09",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "回归分析",
+            "create-time": 1622668470000,
+            "uid": "b1SNuhkR8",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "假设检验",
+            "create-time": 1622668470000,
+            "uid": "PWVwv0a_w",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "相关分析",
+            "create-time": 1622668470000,
+            "uid": "ORF6N7hEr",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "方差分析",
+            "create-time": 1622668470000,
+            "uid": "eYHs973rw",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "聚类分析",
+            "create-time": 1622668470000,
+            "uid": "FcF3Ctk4_",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "贝叶斯分析",
+            "create-time": 1622668470000,
+            "uid": "jZ-sFOojH",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          }
+        ],
+        "uid": "4rFMmR_0E",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622668470000,
+        "uid": "zp6tdWszv",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622668470000,
+        "uid": "PPV0xnWM7",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622668470000,
+        "uid": "ElYDiYmx4",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622668470000,
+        "uid": "vqvQVgVf8",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622668470000,
+        "uid": "-fmp643l0",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622668470000,
+        "uid": "arbytIDyj",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      }
+    ],
+    "uid": "7qRFDo774",
+    ":create/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    }
+  }
+]
