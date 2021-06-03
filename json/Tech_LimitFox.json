@@ -920,11 +920,65 @@
                   {
                     "string": "无穷小和无穷大的关系：在自变量的变换的同一过程中，如果$$f(x)$$为无穷大，那么$$\\frac 1 {f(x)}$$为无穷小",
                     "create-time": 1622719039721,
-                    "uid": "VRjRU2pCR",
-                    "edit-time": 1622731581567,
                     ":create/user": {
                       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                     },
+                    "children": [
+                      {
+                        "string": "无穷大和无穷小相当于倒了个个",
+                        "create-time": 1622759842644,
+                        "uid": "Iaa_2KgVj",
+                        "edit-time": 1622759900196,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "VRjRU2pCR",
+                    "edit-time": 1622731581567,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "无穷小的比较",
+                    "create-time": 1622759921784,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "$$\\alpha =\\alpha(x)$$，$$\\beta = \\beta(x)$$ 都是无穷小\n则：\n$$\\lim\\limits_{x \\to x_0} \\alpha(x) = 0$$，$$\\lim\\limits_{x \\to x_0}\\beta(x) = 0$$",
+                        "create-time": 1622759986365,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "如果",
+                            "create-time": 1622760595864,
+                            "uid": "v0qdglTOk",
+                            "edit-time": 1622760739139,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "CEo480-8y",
+                        "edit-time": 1622760566233,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "QtxDzGCix",
+                    "edit-time": 1622759983437,
                     ":edit/user": {
                       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                     }
@@ -1040,14 +1094,6 @@
             }
           },
           {
-            "string": "特征值与矩阵分解",
-            "create-time": 1622668470000,
-            "uid": "FBOPqC70f",
-            ":create/user": {
-              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-            }
-          },
-          {
             "string": "随机变量与概率估计",
             "create-time": 1622668470000,
             "uid": "M6jG-Sm04",
@@ -1137,6 +1183,14 @@
           }
         ],
         "uid": "4rFMmR_0E",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "特征值与矩阵分解",
+        "create-time": 1622668470000,
+        "uid": "FBOPqC70f",
         ":create/user": {
           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
         }
