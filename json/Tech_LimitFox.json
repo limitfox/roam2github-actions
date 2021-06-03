@@ -958,10 +958,22 @@
                         },
                         "children": [
                           {
-                            "string": "如果 $$\\lim\\limits_{x \\to x_0} \\frac \\beta \\alpha = 0$$，",
+                            "string": "如果 $$\\lim\\limits_{x \\to x_0} \\frac \\beta \\alpha = 0$$，则称$$\\beta$$是比$$\\alpha$$高阶的无穷小",
                             "create-time": 1622760595864,
                             "uid": "v0qdglTOk",
-                            "edit-time": 1622760802126,
+                            "edit-time": 1622760841078,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "如果$$\\lim$$",
+                            "create-time": 1622760845226,
+                            "uid": "F1uXSlHYZ",
+                            "edit-time": 1622760857356,
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },
