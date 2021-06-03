@@ -970,10 +970,10 @@
                             }
                           },
                           {
-                            "string": "如果$$\\lim$$",
+                            "string": "如果$$\\lim_limits{x \\to x_0}\\frac \\beta \\alpha = $$",
                             "create-time": 1622760845226,
                             "uid": "F1uXSlHYZ",
-                            "edit-time": 1622760857356,
+                            "edit-time": 1622760911535,
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },
