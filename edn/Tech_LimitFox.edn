@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuida3fd6a73-2a0d-40d7-b01c-669e4b6eab70"
-   536872121]
+   "uuid1d6b6dd6-ed2c-4939-bc9e-9c1cf0ba76c0"
+   536872140]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -1272,9 +1272,12 @@
   [425 :block/parents 387 536872118]
   [425 :block/parents 422 536872118]
   [425 :block/parents 423 536872120]
-  [425 :block/string "如果" 536872121]
+  [425
+   :block/string
+   "如果 $$\\lim\\limits_{x \\to x_0} \\frac \\beta \\alpha = 0$$，"
+   536872140]
   [425 :block/uid "v0qdglTOk" 536872117]
   [425 :create/time 1622760595864 536872117]
   [425 :create/user 3 536872117]
-  [425 :edit/time 1622760739139 536872121]
+  [425 :edit/time 1622760802126 536872140]
   [425 :edit/user 3 536872117]]}

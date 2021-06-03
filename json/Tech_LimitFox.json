@@ -958,10 +958,10 @@
                         },
                         "children": [
                           {
-                            "string": "如果",
+                            "string": "如果 $$\\lim\\limits_{x \\to x_0} \\frac \\beta \\alpha = 0$$，",
                             "create-time": 1622760595864,
                             "uid": "v0qdglTOk",
-                            "edit-time": 1622760739139,
+                            "edit-time": 1622760802126,
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },
