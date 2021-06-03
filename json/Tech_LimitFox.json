@@ -982,10 +982,10 @@
                             }
                           },
                           {
-                            "string": "如果$$\\lim\\limits_{x \\to x_0}\\frac $$",
+                            "string": "如果$$\\lim\\limits_{x \\to x_0}\\frac \\beta \\alpha = C \\equal $$",
                             "create-time": 1622760950982,
                             "uid": "xs7tqDPPK",
-                            "edit-time": 1622761012273,
+                            "edit-time": 1622761063096,
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },
