@@ -970,10 +970,10 @@
                             }
                           },
                           {
-                            "string": "如果$$\\lim_ilimits{x \\to x_0}\\frac \\beta \\alpha = \\infty$$，则称$$\\beta$$是比$$\\alpha$$低阶无穷小",
+                            "string": "如果$$\\lim\\limits_{x \\to x_0}\\frac \\beta \\alpha = \\infty$$，则称$$\\beta$$是比$$\\alpha$$低阶无穷小",
                             "create-time": 1622760845226,
                             "uid": "F1uXSlHYZ",
-                            "edit-time": 1622760963562,
+                            "edit-time": 1622760969195,
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },
@@ -982,10 +982,10 @@
                             }
                           },
                           {
-                            "string": "",
+                            "string": "如果$$\\lim\\limits_{x \\to x_0}\\frac $$",
                             "create-time": 1622760950982,
                             "uid": "xs7tqDPPK",
-                            "edit-time": 1622760950982,
+                            "edit-time": 1622761012273,
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },
