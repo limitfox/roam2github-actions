@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuid32ad0e6c-2595-413e-9914-b6a3632fd57b"
-   536872179]
+   "uuid0a168fe8-35c8-4251-90f0-87d8c0b0aa43"
+   536872195]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -1247,6 +1247,7 @@
   [422 :edit/user 3 536872035]
   [423 :block/children 425 536872119]
   [423 :block/children 426 536872154]
+  [423 :block/children 427 536872191]
   [423 :block/open true 536872045]
   [423 :block/order 0 536872047]
   [423 :block/page 387 536872046]
@@ -1293,10 +1294,25 @@
   [426 :block/parents 423 536872155]
   [426
    :block/string
-   "如果$$\\lim_limits{x \\to x_0}\\frac \\beta \\alpha = \\infty$$"
-   536872179]
+   "如果$$\\limlimits{x \\to x_0}\\frac \\beta \\alpha = \\infty$$，则称$$\\beta$$是比$$\\alpha$$低阶无穷小"
+   536872195]
   [426 :block/uid "F1uXSlHYZ" 536872154]
   [426 :create/time 1622760845226 536872154]
   [426 :create/user 3 536872154]
-  [426 :edit/time 1622760914596 536872179]
-  [426 :edit/user 3 536872154]]}
+  [426 :edit/time 1622760964927 536872195]
+  [426 :edit/user 3 536872154]
+  [427 :block/open true 536872191]
+  [427 :block/order 2 536872191]
+  [427 :block/page 387 536872192]
+  [427 :block/parents 309 536872192]
+  [427 :block/parents 310 536872192]
+  [427 :block/parents 328 536872192]
+  [427 :block/parents 387 536872192]
+  [427 :block/parents 422 536872192]
+  [427 :block/parents 423 536872192]
+  [427 :block/string "" 536872191]
+  [427 :block/uid "xs7tqDPPK" 536872191]
+  [427 :create/time 1622760950982 536872191]
+  [427 :create/user 3 536872191]
+  [427 :edit/time 1622760950982 536872191]
+  [427 :edit/user 3 536872191]]}
