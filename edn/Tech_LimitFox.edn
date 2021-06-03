@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuid0b62f616-d4f4-4ee0-a944-2cb4b0aa76c2"
-   536871976]
+   "uuid24795881-b181-4374-ac76-bfc22382cfcc"
+   536872018]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -297,7 +297,7 @@
   [328 :create/user 3 536871244]
   [329 :block/open false 536871244]
   [329 :block/order 3 536871586]
-  [329 :block/string "连续性与导数" 536871244]
+  [329 :block/string "连续性与导数" 536871985]
   [329 :block/uid "F85QCCbXh" 536871244]
   [329 :create/time 1622668470000 536871244]
   [329 :create/user 3 536871244]
@@ -1204,9 +1204,12 @@
   [420 :block/parents 310 536871974]
   [420 :block/parents 328 536871974]
   [420 :block/parents 387 536871974]
-  [420 :block/string "" 536871973]
+  [420
+   :block/string
+   "无穷小和无穷大的关系：在自变量的变换的同一过程中，如果$$f(x)$$为无穷大，那么$$\\frac 1 {f(x)}$$为无穷小"
+   536872018]
   [420 :block/uid "VRjRU2pCR" 536871973]
   [420 :create/time 1622719039721 536871973]
   [420 :create/user 3 536871973]
-  [420 :edit/time 1622719039721 536871973]
+  [420 :edit/time 1622731581567 536872018]
   [420 :edit/user 3 536871973]]}
