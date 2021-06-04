@@ -1456,13 +1456,39 @@
                             }
                           },
                           {
-                            "string": "",
+                            "string": "这一小段的平均速度：$$ \\overline v = \\frac {\\Delta s} {\\Delta t} = \\frac {s(t_0 + \\Delta t) - s(t_0)} {\\Delta t}  $$",
                             "create-time": 1622801491278,
                             "uid": "BJYlQ8u17",
-                            "edit-time": 1622801491278,
+                            "edit-time": 1622806763796,
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "当 $$\\Delta t \\to 0$$ 时就是瞬时速度了",
+                            "create-time": 1622806784758,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            "children": [
+                              {
+                                "string": "$$v(t_0) = \\lim\\limits_{\\Delta t \\to 0} {\\overline v} = \\lim\\limits_{\\Delta t \\to 0} \\frac {\\Delta s} {\\Delta t} =  \\lim\\limits_{\\Delta t \\to 0} \\frac {s(t_0 + \\Delta t) - s(t_0)}{\\Delta t}$$",
+                                "create-time": 1622806818177,
+                                "uid": "c6rkEMTab",
+                                "edit-time": 1622807054776,
+                                ":create/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                }
+                              }
+                            ],
+                            "uid": "6yucOiQak",
+                            "edit-time": 1622806806365,
                             ":edit/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             }
@@ -1477,6 +1503,94 @@
                     ],
                     "uid": "41pCWl4PC",
                     "edit-time": 1622801313494,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "如果平均变化率的极限存在，$$\\lim\\limits_{\\Delta x \\to 0} \\frac {\\Delta y}{\\Delta x} = \\lim\\limits_{\\Delta x \\to 0} \\frac{f(x_0 + \\Delta x) - f(x_0)}{\\Delta x}$$\n则称此极限为函数 $$y=f(x)$$ 在点 $$x_0$$ 处的导数：$$f'(x_0)$$\n$$y'|_{x=x_0}$$，$$\\frac {dy}{dx} | _{x=x_0}$$ 或 $$\\frac {df(x)}{dx}| _{x=x_0}$$",
+                    "create-time": 1622807120729,
+                    "uid": "zWIR7UC5Q",
+                    "edit-time": 1622807494068,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "常用导数",
+                    "create-time": 1622807506945,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "$$(C)' = 0$$",
+                        "create-time": 1622807528539,
+                        "uid": "c9j9DKdct",
+                        "edit-time": 1622807763705,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(x^\\mu)' = \\mu x^{\\mu - 1} $$",
+                        "create-time": 1622807765497,
+                        "uid": "U4q_djIUq",
+                        "edit-time": 1622807896945,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(\\sin x)' = \\cos x$$",
+                        "create-time": 1622807901808,
+                        "uid": "1mB8dCQhA",
+                        "edit-time": 1622807921764,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "qivOHz2uQ",
+                    "edit-time": 1622807519339,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "导数计算公式",
+                    "create-time": 1622807519332,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "",
+                        "create-time": 1622807530644,
+                        "uid": "ysuh7oG9D",
+                        "edit-time": 1622807530644,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "OjN8G0Wau",
+                    "edit-time": 1622807527779,
                     ":edit/user": {
                       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                     }
