@@ -1136,10 +1136,10 @@
                             }
                           },
                           {
-                            "string": "极限值等于函数值$$f(x)$$",
+                            "string": "极限值等于函数值$$f(x_0)$$",
                             "create-time": 1622776112699,
                             "uid": "dxUBhwJN9",
-                            "edit-time": 1622776128052,
+                            "edit-time": 1622798577048,
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },
@@ -1155,13 +1155,256 @@
                         }
                       },
                       {
-                        "string": "",
+                        "string": "函数$$f(x) = \\begin{cases}x+1, &x \\leq 0 \\\\ \\frac {\\sin x} x, &x>0 \\end{cases} $$ 在 $$ x = 0 $$ 处的连续性？",
                         "create-time": 1622776128468,
-                        "uid": "b6jpsmV7c",
-                        "edit-time": 1622776128468,
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
+                        "children": [
+                          {
+                            "string": "$$f(0) = 1$$\n$$ \\lim\\limits_{x \\to 0^-}f(x) = \\lim\\limits_{x \\to 0^-}(x+1) = 1 $$  ---> $$\\lim\\limits_{x \\to 0}f(x) = 1$$\n$$\\lim\\limits_{x \\to 0^+}f(x) = \\lim\\limits_{x \\to 0^+} \\frac {sin(x)} x = 1$$ ---> $$\\lim\\limits_{x \\to 0}f(x) = f(0) = 1$$",
+                            "create-time": 1622798758665,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            "children": [
+                              {
+                                "string": "左、右都为1，所以是连续的",
+                                "create-time": 1622798993161,
+                                "uid": "L7I9L7aYe",
+                                "edit-time": 1622799205251,
+                                ":create/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                }
+                              }
+                            ],
+                            "uid": "e6MhUKZT7",
+                            "edit-time": 1622799168625,
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "b6jpsmV7c",
+                        "edit-time": 1622798758672,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "函数$$f(x)$$在点 $$x = x_0$$ 处不连续，则称其为函数的间断点。",
+                        "create-time": 1622799205243,
+                        "uid": "7i1Nx3vab",
+                        "edit-time": 1622799242553,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "3种情况为间断点",
+                        "create-time": 1622799244435,
+                        "emojis": [],
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "函数 $$f(x)$$ 在点 $$x_0$$ 处没有定义",
+                            "create-time": 1622799313924,
+                            "uid": "MC8NC18V-",
+                            "edit-time": 1622799480070,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "极限 $$\\lim\\limits_{x \\to x_0}f(x)$$ 不存在",
+                            "create-time": 1622799493729,
+                            "uid": "Vx1SA7y1j",
+                            "edit-time": 1622799519479,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "满足前两点，但是 $$\\lim\\limits_{x \\to x_0} f(x) \\neq f(x) $$",
+                            "create-time": 1622799519472,
+                            "uid": "9B9Jgj8DN",
+                            "edit-time": 1622799573699,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "0VBc3yK_-",
+                        "edit-time": 1622799313775,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "函数的间断点",
+                        "create-time": 1622799574992,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "当$$x \\to x_0$$时，$$f(x)$$ 的左右极限存在，则称$$x_0$$为$$f(x)$$的^^**第一类间断点**^^，否则为^^**第二类间断点**^^。",
+                            "create-time": 1622799596226,
+                            "uid": "cB7DBJX7d",
+                            "edit-time": 1622799924652,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "^^**跳跃间断点**^^: $$\\lim\\limits_{x \\to 0^-}f(x)$$ 与 $$\\lim\\limits_{x \\to 0^+}f(x)$$ 均存在，但不相等。",
+                            "create-time": 1622799660536,
+                            "uid": "_852UlWZi",
+                            "edit-time": 1622799905933,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "^^**可去间断点**^^: $$\\lim\\limits_{x \\to x_0}f(x)$$ 存在但不等于 $$f(x)$$",
+                            "create-time": 1622799844388,
+                            "uid": "ja1YWYfbS",
+                            "edit-time": 1622800011447,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "9VjFlfGYh",
+                        "edit-time": 1622799595752,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "函数$$f(x) = \\frac {x^2-1} {x^2 - 3x +2} $$ 的连续型？",
+                        "create-time": 1622800079814,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "在点 $$x=2$$，$$x=1$$ 处没有定义。",
+                            "create-time": 1622800146174,
+                            "uid": "11qxrUc-D",
+                            "edit-time": 1622800301728,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "在 $$x=1$$ 处是可去间断点",
+                            "create-time": 1622800860932,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            "children": [
+                              {
+                                "string": "$$\\lim\\limits_{x \\to 1^-} \\frac {x^2 - 1} {x^2 - 3x + 2} = \\lim\\limits_{x \\to 1^-} \\frac {x+1}{x-2} = -2$$",
+                                "create-time": 1622800302370,
+                                "uid": "XtRbpjOLH",
+                                "edit-time": 1622800545177,
+                                ":create/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                }
+                              },
+                              {
+                                "string": "$$\\lim\\limits_{x \\to 1^+} \\frac {x^2 - 1}{x^2 - 3x + 2} = \\lim\\limits_{x \\to 1^+} \\frac {x+1}{x-2} = -2 $$",
+                                "create-time": 1622800577867,
+                                "uid": "gvts-Md8I",
+                                "edit-time": 1622800823816,
+                                ":create/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                }
+                              }
+                            ],
+                            "uid": "Nc3-zHClX",
+                            "edit-time": 1622800930096,
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "在 $$x=2$$ 是第二类间断点",
+                            "create-time": 1622800824591,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            "children": [
+                              {
+                                "string": "$$\\lim\\limits_{x \\to 2^-}f(x) = -\\infty$$",
+                                "create-time": 1622800948826,
+                                "uid": "Vs8ZjbQ8b",
+                                "edit-time": 1622800993719,
+                                ":create/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                }
+                              },
+                              {
+                                "string": "$$\\lim\\limits_{x \\to 2^+}f(x) = +\\infty$$",
+                                "create-time": 1622801011641,
+                                "uid": "6CuESEv0b",
+                                "edit-time": 1622801027389,
+                                ":create/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                }
+                              }
+                            ],
+                            "uid": "-HU9xSqVz",
+                            "edit-time": 1622800948831,
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "rENy9qNbR",
+                        "edit-time": 1622800146179,
                         ":edit/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         }
@@ -1176,6 +1419,72 @@
                 ],
                 "uid": "F85QCCbXh",
                 ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "导数",
+                "create-time": 1622801244218,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "string": "**平均速度**：（速度）$$v = \\frac {s(路程)} {t(时间)}$$",
+                    "create-time": 1622801248879,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "但是如何表示瞬时速度呢？",
+                        "create-time": 1622801313489,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "瞬时经过路程：$$\\Delta s = s(t_0 + \\Delta t) - s(t_0)$$",
+                            "create-time": 1622801429852,
+                            "uid": "1kwu5buV0",
+                            "edit-time": 1622801487012,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "",
+                            "create-time": 1622801491278,
+                            "uid": "BJYlQ8u17",
+                            "edit-time": 1622801491278,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "MfgJeQkoy",
+                        "edit-time": 1622801328705,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "41pCWl4PC",
+                    "edit-time": 1622801313494,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "qZK99Hg47",
+                "edit-time": 1622801248886,
+                ":edit/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                 }
               },
