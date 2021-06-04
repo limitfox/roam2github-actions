@@ -1016,6 +1016,164 @@
               {
                 "string": "连续性与导数",
                 "create-time": 1622668470000,
+                "children": [
+                  {
+                    "string": "函数的连续性",
+                    "create-time": 1622774327168,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "设函数 $$y=f(x)$$在点 $$x$$ 的某邻域内有定义，如果当自变量的改变量 $$\\Delta x$$ 趋近于零时，相应函数的改变量$$\\Delta y$$也趋近于零，则称 $$y=f(x)$$ 在点 $$x$$ 处连续。",
+                        "create-time": 1622774332487,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "$$\\lim\\limits_{\\Delta x \\to 0} { \\Delta y } = \\lim\\limits_{\\Delta x \\to 0} [f(x_0 + \\Delta x) - f(x_0)] = 0$$",
+                            "create-time": 1622774537845,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            "children": [
+                              {
+                                "string": "当 $$\\Delta x \\to 0$$ 时， $$\\Delta y \\to 0$$\n",
+                                "create-time": 1622774962953,
+                                ":create/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                },
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2F3ZvKR_znLc.png?alt=media&token=9b959d9e-169a-4ff3-92ca-c6d488c19104)",
+                                    "create-time": 1622774668600,
+                                    "uid": "VvKewzG41",
+                                    "edit-time": 1622774962961,
+                                    ":create/user": {
+                                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                    }
+                                  }
+                                ],
+                                "uid": "pHHm9m2dT",
+                                "edit-time": 1622774962953,
+                                ":edit/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                }
+                              },
+                              {
+                                "string": "当$$\\Delta x \\to 0^+$$ 时，$$\\Delta y $$ 不能趋近于 0",
+                                "create-time": 1622774913001,
+                                ":create/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                },
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FJLhOP_zFO9.png?alt=media&token=059b8b72-7246-445e-8395-1f4d51d0b18e)",
+                                    "create-time": 1622774956797,
+                                    "uid": "HXt5zNVar",
+                                    "edit-time": 1622775001707,
+                                    ":create/user": {
+                                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                    }
+                                  }
+                                ],
+                                "uid": "0uAbw_SyI",
+                                "edit-time": 1622774956050,
+                                ":edit/user": {
+                                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                                }
+                              }
+                            ],
+                            "uid": "mtMgVg0cg",
+                            "edit-time": 1622774649959,
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "4HRoDNYXs",
+                        "edit-time": 1622774522574,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "函数$$f(x)$$在点$$x_0$$处连续，需要满足的条件：",
+                        "create-time": 1622776006587,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "函数在该点处有定义",
+                            "create-time": 1622776065819,
+                            "uid": "DA7jntfB5",
+                            "edit-time": 1622776082114,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "函数在该点处极限$$\\lim\\limits_{x \\to x_0}f(x)$$存在",
+                            "create-time": 1622776082107,
+                            "uid": "0sYiZ7nk2",
+                            "edit-time": 1622776112707,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "极限值等于函数值$$f(x)$$",
+                            "create-time": 1622776112699,
+                            "uid": "dxUBhwJN9",
+                            "edit-time": 1622776128052,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "M02rHxqPE",
+                        "edit-time": 1622776065825,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "",
+                        "create-time": 1622776128468,
+                        "uid": "b6jpsmV7c",
+                        "edit-time": 1622776128468,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "0HUgFAES6",
+                    "edit-time": 1622774332494,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
                 "uid": "F85QCCbXh",
                 ":create/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
@@ -1025,7 +1183,11 @@
                 "string": "偏导数",
                 "create-time": 1622668470000,
                 "uid": "jhEp8_Dr4",
+                "edit-time": 1622775282462,
                 ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                 }
               },
