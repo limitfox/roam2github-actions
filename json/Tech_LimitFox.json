@@ -1599,10 +1599,118 @@
                         }
                       },
                       {
-                        "string": "",
+                        "string": "$$(\\sec x)' = \\sec x \\tan x$$",
                         "create-time": 1622852831648,
                         "uid": "PqWcSg1cw",
-                        "edit-time": 1622852831648,
+                        "edit-time": 1622858984109,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(\\csc x)' = - \\csc x \\cot x$$",
+                        "create-time": 1622858986163,
+                        "uid": "yXUdPAn1M",
+                        "edit-time": 1622859024481,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(a^x)' = a^x \\ln a$$",
+                        "create-time": 1622859025489,
+                        "uid": "waTUicM5b",
+                        "edit-time": 1622859085397,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(e^x)' = e^x$$",
+                        "create-time": 1622859076936,
+                        "uid": "4tEcvt_NN",
+                        "edit-time": 1622859127914,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(\\log _a x)' = \\frac 1 {x \\ln a}$$",
+                        "create-time": 1622859128298,
+                        "uid": "hsFjcDSii",
+                        "edit-time": 1622859197205,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(\\ln x)' = \\frac 1 x$$",
+                        "create-time": 1622859174211,
+                        "uid": "0Znfz1ggK",
+                        "edit-time": 1622859231521,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(\\arcsin x)' = \\frac 1 {\\sqrt{1 - x^2}}$$",
+                        "create-time": 1622859231827,
+                        "uid": "LvRVSakDQ",
+                        "edit-time": 1622859511865,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(\\arccos x)' = - \\frac 1 {\\sqrt{1 - x^2}}$$",
+                        "create-time": 1622859463251,
+                        "uid": "2neY9RHdV",
+                        "edit-time": 1622859534049,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(\\arctan x)' = \\frac 1 {1+x^2}$$",
+                        "create-time": 1622859519498,
+                        "uid": "IaPOyMnnZ",
+                        "edit-time": 1622859648410,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(arc\\cot x)' = - \\frac 1 {1+x^2} x$$",
+                        "create-time": 1622859585509,
+                        "uid": "uMjo-rnfy",
+                        "edit-time": 1622859905154,
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
@@ -1625,10 +1733,34 @@
                     },
                     "children": [
                       {
-                        "string": "",
+                        "string": "$$(u \\pm v)' = u' \\pm v'$$",
                         "create-time": 1622807530644,
                         "uid": "ysuh7oG9D",
-                        "edit-time": 1622807530644,
+                        "edit-time": 1622860250848,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(uv)' = u'v + v'u$$",
+                        "create-time": 1622860251849,
+                        "uid": "qB4Kyi_MW",
+                        "edit-time": 1622860285884,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "",
+                        "create-time": 1622860280740,
+                        "uid": "GbTmcf54P",
+                        "edit-time": 1622860280740,
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
