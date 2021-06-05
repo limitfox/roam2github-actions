@@ -1561,6 +1561,54 @@
                         ":edit/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         }
+                      },
+                      {
+                        "string": "$$(\\cos x)' = - \\sin x$$",
+                        "create-time": 1622852714809,
+                        "uid": "2-8byB_r9",
+                        "edit-time": 1622852735245,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(\\tan x)' = \\sec^2 x$$",
+                        "create-time": 1622852736156,
+                        "uid": "X-CDIixV1",
+                        "edit-time": 1622852777193,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(\\cot x)' = - \\csc^2 x$$",
+                        "create-time": 1622852778623,
+                        "uid": "cPoMOBii7",
+                        "edit-time": 1622852830692,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "",
+                        "create-time": 1622852831648,
+                        "uid": "PqWcSg1cw",
+                        "edit-time": 1622852831648,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
                       }
                     ],
                     "uid": "qivOHz2uQ",
