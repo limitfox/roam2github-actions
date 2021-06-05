@@ -1757,10 +1757,34 @@
                         }
                       },
                       {
-                        "string": "",
+                        "string": "$$(\\frac u v)' = \\frac {u'v -uv'}{v^2}\\ (v \\neq 0)$$",
                         "create-time": 1622860280740,
                         "uid": "GbTmcf54P",
-                        "edit-time": 1622860280740,
+                        "edit-time": 1622909014128,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(Cu)' = Cu'$$",
+                        "create-time": 1622908965339,
+                        "uid": "Nh61fhXfS",
+                        "edit-time": 1622909035742,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$(\\frac C v = - \\frac {Cv'} {v^2})$$",
+                        "create-time": 1622909036335,
+                        "uid": "fQr_mZ-18",
+                        "edit-time": 1622909080009,
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
@@ -1785,11 +1809,107 @@
               {
                 "string": "偏导数",
                 "create-time": 1622668470000,
-                "uid": "jhEp8_Dr4",
-                "edit-time": 1622775282462,
                 ":create/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                 },
+                "children": [
+                  {
+                    "string": "对于一元函数$$y=f(x)$$只存在$$y$$随$$x$$的变化",
+                    "create-time": 1622909232440,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FnVtT5mGkYM.png?alt=media&token=d0b94369-7fc9-45ad-bcc2-3f637d4305d1)",
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FnVtT5mGkYM.png?alt=media&token=d0b94369-7fc9-45ad-bcc2-3f637d4305d1": {
+                              "width": 204,
+                              "height": null
+                            }
+                          }
+                        },
+                        "create-time": 1622909266736,
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FnVtT5mGkYM.png?alt=media&token=d0b94369-7fc9-45ad-bcc2-3f637d4305d1": {
+                              ":width": 204,
+                              ":height": null
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "uid": "1W3QVcUMh",
+                        "edit-time": 1622909283803,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "rGeFVrOBg",
+                    "edit-time": 1622909266363,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "二元函数$$z=f(x, y)$$存在$$x$$随$$x$$变化的变化率，随$$y$$变化的变化率，随$$x，y$$同时变化的变化率。",
+                    "create-time": 1622909285744,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FnopHNRdITE.png?alt=media&token=7cb0a431-9ae6-451a-b323-a17e9f6d878a)",
+                        "create-time": 1622909380967,
+                        "uid": "1IeI7Fryu",
+                        "edit-time": 1622909400618,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "3R3T68jD1",
+                    "edit-time": 1622909380599,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "定义",
+                    "create-time": 1622909401866,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "设函数$$z=f(x,y)$$在点$$(x_0, y_0)$$的某个邻域内有定义",
+                        "create-time": 1622909432334,
+                        "uid": "r_QXmKTun",
+                        "edit-time": 1622909469628,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "u9gk0FNSI",
+                    "edit-time": 1622909432340,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "jhEp8_Dr4",
+                "edit-time": 1622775282462,
                 ":edit/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                 }
@@ -2055,6 +2175,18 @@
     "title": "June 5th, 2021",
     "uid": "06-05-2021",
     "edit-time": 1622849300239,
+    ":create/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    },
+    ":edit/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    }
+  },
+  {
+    "create-time": 1622908895904,
+    "title": "June 6th, 2021",
+    "uid": "06-06-2021",
+    "edit-time": 1622908895904,
     ":create/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     },
