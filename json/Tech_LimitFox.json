@@ -1891,11 +1891,25 @@
                       {
                         "string": "设函数$$z=f(x,y)$$在点$$(x_0, y_0)$$的某个邻域内有定义",
                         "create-time": 1622909432334,
-                        "uid": "r_QXmKTun",
-                        "edit-time": 1622909469628,
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
+                        "children": [
+                          {
+                            "string": "定$$$$",
+                            "create-time": 1622950404272,
+                            "uid": "8HcNupTIq",
+                            "edit-time": 1622950417178,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "r_QXmKTun",
+                        "edit-time": 1622909469628,
                         ":edit/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         }
@@ -2108,46 +2122,6 @@
         "string": "",
         "create-time": 1622668470000,
         "uid": "zp6tdWszv",
-        ":create/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1622668470000,
-        "uid": "PPV0xnWM7",
-        ":create/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1622668470000,
-        "uid": "ElYDiYmx4",
-        ":create/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1622668470000,
-        "uid": "vqvQVgVf8",
-        ":create/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1622668470000,
-        "uid": "-fmp643l0",
-        ":create/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1622668470000,
-        "uid": "arbytIDyj",
         ":create/user": {
           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
         }
