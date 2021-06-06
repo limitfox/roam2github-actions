@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuid3e05fd0e-200b-4dba-ac84-a9de8a5383f8"
-   536874000]
+   "uuid176849f0-8bf0-4b16-afbe-232c347ef391"
+   536874028]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -2529,9 +2529,12 @@
   [513 :block/parents 330 536873988]
   [513 :block/parents 387 536873988]
   [513 :block/parents 512 536873990]
-  [513 :block/string "$$\\frac {\\partial f}{\\partial x}$$" 536874000]
+  [513
+   :block/string
+   "$$\\frac {\\partial f}{\\partial x} | _{x=x_0, y=y_0} = \\frac d {dy}f(x_0, y)| _{y=y_0}$$ 是曲线 "
+   536874028]
   [513 :block/uid "MWrYZCMQA" 536873987]
   [513 :create/time 1622956400978 536873987]
   [513 :create/user 3 536873987]
-  [513 :edit/time 1622956486915 536874000]
+  [513 :edit/time 1622993306479 536874028]
   [513 :edit/user 3 536873987]]}
