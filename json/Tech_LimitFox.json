@@ -1896,10 +1896,22 @@
                         },
                         "children": [
                           {
-                            "string": "定$$$$",
+                            "string": "定$$y=y_0$$，一元函数$$f(x, y_0)$$在点$$x=x_0$$处可导，即极限$$\\lim\\limits_{\\Delta x \\to 0} \\frac {f(x_0 + \\Delta x, y_0) - f(x_0, y_0)}{\\Delta x} = A$$",
                             "create-time": 1622950404272,
                             "uid": "8HcNupTIq",
-                            "edit-time": 1622950417178,
+                            "edit-time": 1622953973524,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "则称 $$A$$为函数: $$z=f(x,y)$$在点$$(x_0, y_0)$$处关于自变量$$X$$的偏导数记作：$$f_x(x_0, y_0)$$ 或者 $$\\frac {\\partial _z} {\\partial _x} | _{x=x_0, y=y_0}$$ $$f_x(x_0, y_0)$$ 或者 $$\\frac {\\partial f} {\\partial _x} | _{x=x_0, y=y_0}$$ $$f_x(x_0, y_0)$$ 或者 $$z_x | _{x=x_0, y=y_0}$$  ",
+                            "create-time": 1622953973894,
+                            "uid": "HR0gzhXOZ",
+                            "edit-time": 1622956221689,
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },
@@ -1917,6 +1929,32 @@
                     ],
                     "uid": "u9gk0FNSI",
                     "edit-time": 1622909432340,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "几何意义",
+                    "create-time": 1622956227462,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "",
+                        "create-time": 1622956400978,
+                        "uid": "MWrYZCMQA",
+                        "edit-time": 1622956400978,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "4sh8QUHY1",
+                    "edit-time": 1622956400350,
                     ":edit/user": {
                       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                     }

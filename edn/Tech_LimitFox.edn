@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuidd6d4d617-08fd-4c34-95fe-c4e4e190701c"
-   536873826]
+   "uuid57d8c33d-8338-4ec8-a774-ed62ccc589fa"
+   536873990]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -308,6 +308,7 @@
   [330 :block/children 503 536873735]
   [330 :block/children 505 536873757]
   [330 :block/children 507 536873792]
+  [330 :block/children 512 536873982]
   [330 :block/open true 536872411]
   [330 :block/order 5 536873392]
   [330 :block/string "偏导数" 536872419]
@@ -2452,6 +2453,7 @@
   [507 :edit/time 1622909432340 536873796]
   [507 :edit/user 3 536873790]
   [508 :block/children 509 536873821]
+  [508 :block/children 510 536873887]
   [508 :block/open true 536873794]
   [508 :block/order 0 536873797]
   [508 :block/page 387 536873795]
@@ -2478,9 +2480,58 @@
   [509 :block/parents 387 536873820]
   [509 :block/parents 507 536873820]
   [509 :block/parents 508 536873822]
-  [509 :block/string "定$$$$" 536873826]
+  [509
+   :block/string
+   "定$$y=y_0$$，一元函数$$f(x, y_0)$$在点$$x=x_0$$处可导，即极限$$\\lim\\limits_{\\Delta x \\to 0} \\frac {f(x_0 + \\Delta x, y_0) - f(x_0, y_0)}{\\Delta x} = A$$"
+   536873886]
   [509 :block/uid "8HcNupTIq" 536873819]
   [509 :create/time 1622950404272 536873819]
   [509 :create/user 3 536873819]
-  [509 :edit/time 1622950417178 536873826]
-  [509 :edit/user 3 536873819]]}
+  [509 :edit/time 1622953973524 536873886]
+  [509 :edit/user 3 536873819]
+  [510 :block/open true 536873887]
+  [510 :block/order 1 536873887]
+  [510 :block/page 387 536873888]
+  [510 :block/parents 309 536873888]
+  [510 :block/parents 310 536873888]
+  [510 :block/parents 330 536873888]
+  [510 :block/parents 387 536873888]
+  [510 :block/parents 507 536873888]
+  [510 :block/parents 508 536873888]
+  [510
+   :block/string
+   "则称 $$A$$为函数: $$z=f(x,y)$$在点$$(x_0, y_0)$$处关于自变量$$X$$的偏导数记作：$$f_x(x_0, y_0)$$ 或者 $$\\frac {\\partial _z} {\\partial _x} | _{x=x_0, y=y_0}$$ $$f_x(x_0, y_0)$$ 或者 $$\\frac {\\partial f} {\\partial _x} | _{x=x_0, y=y_0}$$ $$f_x(x_0, y_0)$$ 或者 $$z_x | _{x=x_0, y=y_0}$$  "
+   536873977]
+  [510 :block/uid "HR0gzhXOZ" 536873887]
+  [510 :create/time 1622953973894 536873887]
+  [510 :create/user 3 536873887]
+  [510 :edit/time 1622956221689 536873977]
+  [510 :edit/user 3 536873887]
+  [512 :block/children 513 536873989]
+  [512 :block/open true 536873978]
+  [512 :block/order 3 536873982]
+  [512 :block/page 387 536873979]
+  [512 :block/parents 309 536873979]
+  [512 :block/parents 310 536873979]
+  [512 :block/parents 330 536873979]
+  [512 :block/parents 387 536873979]
+  [512 :block/string "几何意义" 536873986]
+  [512 :block/uid "4sh8QUHY1" 536873978]
+  [512 :create/time 1622956227462 536873978]
+  [512 :create/user 3 536873978]
+  [512 :edit/time 1622956400350 536873986]
+  [512 :edit/user 3 536873978]
+  [513 :block/open true 536873987]
+  [513 :block/order 0 536873989]
+  [513 :block/page 387 536873988]
+  [513 :block/parents 309 536873988]
+  [513 :block/parents 310 536873988]
+  [513 :block/parents 330 536873988]
+  [513 :block/parents 387 536873988]
+  [513 :block/parents 512 536873990]
+  [513 :block/string "" 536873987]
+  [513 :block/uid "MWrYZCMQA" 536873987]
+  [513 :create/time 1622956400978 536873987]
+  [513 :create/user 3 536873987]
+  [513 :edit/time 1622956400978 536873987]
+  [513 :edit/user 3 536873987]]}
