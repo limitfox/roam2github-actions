@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuid34665565-6e82-4946-a45b-a639238b6280"
-   536873994]
+   "uuid3e05fd0e-200b-4dba-ac84-a9de8a5383f8"
+   536874000]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -2529,9 +2529,9 @@
   [513 :block/parents 330 536873988]
   [513 :block/parents 387 536873988]
   [513 :block/parents 512 536873990]
-  [513 :block/string "$$\\frac {\\partial}$$" 536873994]
+  [513 :block/string "$$\\frac {\\partial f}{\\partial x}$$" 536874000]
   [513 :block/uid "MWrYZCMQA" 536873987]
   [513 :create/time 1622956400978 536873987]
   [513 :create/user 3 536873987]
-  [513 :edit/time 1622956465686 536873994]
+  [513 :edit/time 1622956486915 536874000]
   [513 :edit/user 3 536873987]]}
