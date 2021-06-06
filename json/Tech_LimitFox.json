@@ -1941,10 +1941,10 @@
                     },
                     "children": [
                       {
-                        "string": "",
+                        "string": "$$\\frac {\\partial}$$",
                         "create-time": 1622956400978,
                         "uid": "MWrYZCMQA",
-                        "edit-time": 1622956400978,
+                        "edit-time": 1622956465686,
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
