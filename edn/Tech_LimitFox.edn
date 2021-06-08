@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuid638b5506-3891-41f2-98bb-56d046731814"
-   536874030]
+   "uuid6abd1efe-fb53-4963-a87a-aa458048d2c0"
+   536874184]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -2507,7 +2507,8 @@
   [510 :create/user 3 536873887]
   [510 :edit/time 1622956221689 536873977]
   [510 :edit/user 3 536873887]
-  [512 :block/children 513 536873989]
+  [512 :block/children 517 536874105]
+  [512 :block/children 518 536874133]
   [512 :block/open true 536873978]
   [512 :block/order 3 536873982]
   [512 :block/page 387 536873979]
@@ -2521,23 +2522,6 @@
   [512 :create/user 3 536873978]
   [512 :edit/time 1622956400350 536873986]
   [512 :edit/user 3 536873978]
-  [513 :block/open true 536873987]
-  [513 :block/order 0 536873989]
-  [513 :block/page 387 536873988]
-  [513 :block/parents 309 536873988]
-  [513 :block/parents 310 536873988]
-  [513 :block/parents 330 536873988]
-  [513 :block/parents 387 536873988]
-  [513 :block/parents 512 536873990]
-  [513
-   :block/string
-   "$$\\frac {\\partial f}{\\partial x} | _{x=x_0, y=y_0} = \\frac d {dy}f(x_0, y)| _{y=y_0}$$ 是曲线 "
-   536874028]
-  [513 :block/uid "MWrYZCMQA" 536873987]
-  [513 :create/time 1622956400978 536873987]
-  [513 :create/user 3 536873987]
-  [513 :edit/time 1622993306479 536874028]
-  [513 :edit/user 3 536873987]
   [514 :block/uid "06-07-2021" 536874029]
   [514 :create/time 1623028867004 536874029]
   [514 :create/user 3 536874029]
@@ -2551,4 +2535,35 @@
   [515 :edit/time 1623111725652 536874030]
   [515 :edit/user 3 536874030]
   [515 :log/id 1623111725650 536874030]
-  [515 :node/title "June 8th, 2021" 536874030]]}
+  [515 :node/title "June 8th, 2021" 536874030]
+  [517 :block/open true 536874105]
+  [517 :block/order 1 536874136]
+  [517 :block/page 387 536874105]
+  [517 :block/parents 309 536874105]
+  [517 :block/parents 310 536874105]
+  [517 :block/parents 330 536874105]
+  [517 :block/parents 387 536874105]
+  [517 :block/parents 512 536874105]
+  [517 :block/string "" 536874105]
+  [517 :block/uid "MXRqKbjip" 536874105]
+  [517 :create/time 1623165954722 536874105]
+  [517 :create/user 3 536874105]
+  [517 :edit/time 1623165954722 536874105]
+  [517 :edit/user 3 536874105]
+  [518 :block/open true 536874133]
+  [518 :block/order 0 536874133]
+  [518 :block/page 387 536874134]
+  [518 :block/parents 309 536874134]
+  [518 :block/parents 310 536874134]
+  [518 :block/parents 330 536874134]
+  [518 :block/parents 387 536874134]
+  [518 :block/parents 512 536874134]
+  [518
+   :block/string
+   "$$\\left. \\frac {\\partial f}{\\partial x} \\right| _{ x=x_0, y=y_0} = \\frac d {dy}f(x_0, y)| _{y=y_0}$$ 是曲线 $$\\begin{cases} {z=f(x, y)} \\\\ {y = y_0} \\end{cases}$$ 在点 $$M_0$$ 处的切线 $$M_0T_y$$ 对 $$y$$ 轴的斜率。"
+   536874184]
+  [518 :block/uid "UNxGiJ1uN" 536874133]
+  [518 :create/time 1623166670232 536874133]
+  [518 :create/user 3 536874133]
+  [518 :edit/time 1623166935442 536874184]
+  [518 :edit/user 3 536874133]]}

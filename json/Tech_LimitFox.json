@@ -1941,10 +1941,22 @@
                     },
                     "children": [
                       {
-                        "string": "$$\\frac {\\partial f}{\\partial x} | _{x=x_0, y=y_0} = \\frac d {dy}f(x_0, y)| _{y=y_0}$$ 是曲线 ",
-                        "create-time": 1622956400978,
-                        "uid": "MWrYZCMQA",
-                        "edit-time": 1622993306479,
+                        "string": "$$\\left. \\frac {\\partial f}{\\partial x} \\right| _{ x=x_0, y=y_0} = \\frac d {dy}f(x_0, y)| _{y=y_0}$$ 是曲线 $$\\begin{cases} {z=f(x, y)} \\\\ {y = y_0} \\end{cases}$$ 在点 $$M_0$$ 处的切线 $$M_0T_y$$ 对 $$y$$ 轴的斜率。",
+                        "create-time": 1623166670232,
+                        "uid": "UNxGiJ1uN",
+                        "edit-time": 1623166935442,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "",
+                        "create-time": 1623165954722,
+                        "uid": "MXRqKbjip",
+                        "edit-time": 1623165954722,
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
