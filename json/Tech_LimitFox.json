@@ -2189,24 +2189,24 @@
                     }
                   },
                   {
-                    "string": "定理：如果函数 $$z = f(x,y)在点P(x,y)$$是^^可微分^^的，那么^^在该点沿任意方向L的方向L导数都存在^^。",
+                    "string": "定理：如果函数 $$z = f(x,y)在点P(x,y)$$是^^可微分^^的，那么^^在该点沿任意方向L的方向导数都存在^^。",
                     "create-time": 1623232253595,
                     ":create/user": {
                       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                     },
                     "children": [
                       {
-                        "string": "$$\\frac{\\partial f}{\\partial l} = \\frac {\\partial f} {\\partial x} \\cos \\phi + \\frac {\\partial f}{\\partial y} \\sin \\phi$$",
+                        "string": "$$\\frac{\\partial f}{\\partial l} = \\frac {\\partial f} {\\partial x} \\cos \\varphi + \\frac {\\partial f}{\\partial y} \\sin \\varphi$$",
                         "create-time": 1623232316322,
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
                         "children": [
                           {
-                            "string": "$$\\phi$$ 为 X 轴到 L 的角度",
+                            "string": "$$\\varphi$$ 为 X 轴到 L 的角度",
                             "create-time": 1623237244254,
                             "uid": "PH0Gs7Y46",
-                            "edit-time": 1623237278107,
+                            "edit-time": 1623239042768,
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },
@@ -2216,14 +2216,68 @@
                           }
                         ],
                         "uid": "XWyomDx41",
-                        "edit-time": 1623236817807,
+                        "edit-time": 1623239012315,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FUOhX4PCvFF.png?alt=media&token=1c09ec9c-bf12-4466-988a-31aa276e9f33) ",
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FUOhX4PCvFF.png?alt=media&token=1c09ec9c-bf12-4466-988a-31aa276e9f33": {
+                              "width": 189,
+                              "height": null
+                            }
+                          }
+                        },
+                        "create-time": 1623237912483,
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FUOhX4PCvFF.png?alt=media&token=1c09ec9c-bf12-4466-988a-31aa276e9f33": {
+                              ":width": 189,
+                              ":height": null
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "uid": "NoHkF6xXj",
+                        "edit-time": 1623238278339,
                         ":edit/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         }
                       }
                     ],
                     "uid": "kYs8BRada",
-                    "edit-time": 1623232597574,
+                    "edit-time": 1623237742796,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "求函数$$z = xe^{2y}$$ 在点 $$P(1,0)$$处沿从点$$P(1,0)$$到点$$Q(2,-1)$$的方向的方向导数。",
+                    "create-time": 1623238548220,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "解： 这里方向 $$\\overrightarrow{l}$$ 即为 $$\\overrightarrow{PQ} = \\{1, -1\\}$$，\n故 $$x$$ 轴到方向 $$\\overrightarrow{l}$$的转角$$\\varphi = - \\frac {\\pi}{4}$$",
+                        "create-time": 1623238653703,
+                        "uid": "3oUURkCCx",
+                        "edit-time": 1623238999075,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "WrPWEQDZO",
+                    "edit-time": 1623238653516,
                     ":edit/user": {
                       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                     }
@@ -2235,10 +2289,10 @@
                 }
               },
               {
-                "string": " 梯度",
+                "string": "梯度",
                 "create-time": 1622668470000,
                 "uid": "CFrZp-rlT",
-                "edit-time": 1623228213285,
+                "edit-time": 1623238255170,
                 ":create/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                 },

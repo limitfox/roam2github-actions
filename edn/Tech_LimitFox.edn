@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuid99b7fa87-66d2-42d7-8477-f9db91857c43"
-   536874704]
+   "uuidd3412820-1f0e-4702-b252-486aecf3f455"
+   536874831]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -324,6 +324,7 @@
   [331 :block/children 535 536874437]
   [331 :block/children 536 536874535]
   [331 :block/children 537 536874615]
+  [331 :block/children 542 536874725]
   [331 :block/open true 536874343]
   [331 :block/order 6 536873735]
   [331 :block/string "方向导数" 536871244]
@@ -331,12 +332,12 @@
   [331 :create/time 1622668470000 536871244]
   [331 :create/user 3 536871244]
   [332 :block/open false 536871244]
-  [332 :block/order 7 536874343]
-  [332 :block/string " 梯度" 536874464]
+  [332 :block/order 7 536874715]
+  [332 :block/string "梯度" 536874714]
   [332 :block/uid "CFrZp-rlT" 536871244]
   [332 :create/time 1622668470000 536871244]
   [332 :create/user 3 536871244]
-  [332 :edit/time 1623228213285 536874464]
+  [332 :edit/time 1623238255170 536874714]
   [332 :edit/user 3 536874464]
   [333 :block/open false 536871244]
   [333 :block/order 0 536871244]
@@ -2826,6 +2827,7 @@
   [536 :edit/time 1623232572446 536874671]
   [536 :edit/user 3 536874535]
   [537 :block/children 538 536874642]
+  [537 :block/children 540 536874708]
   [537 :block/open true 536874615]
   [537 :block/order 3 536874615]
   [537 :block/page 387 536874616]
@@ -2835,12 +2837,12 @@
   [537 :block/parents 387 536874616]
   [537
    :block/string
-   "定理：如果函数 $$z = f(x,y)在点P(x,y)$$是^^可微分^^的，那么^^在该点沿任意方向L的方向L导数都存在^^。"
-   536874674]
+   "定理：如果函数 $$z = f(x,y)在点P(x,y)$$是^^可微分^^的，那么^^在该点沿任意方向L的方向导数都存在^^。"
+   536874705]
   [537 :block/uid "kYs8BRada" 536874615]
   [537 :create/time 1623232253595 536874615]
   [537 :create/user 3 536874615]
-  [537 :edit/time 1623232597574 536874674]
+  [537 :edit/time 1623237742796 536874705]
   [537 :edit/user 3 536874615]
   [538 :block/children 539 536874693]
   [538 :block/open true 536874639]
@@ -2853,12 +2855,12 @@
   [538 :block/parents 537 536874643]
   [538
    :block/string
-   "$$\\frac{\\partial f}{\\partial l} = \\frac {\\partial f} {\\partial x} \\cos \\phi + \\frac {\\partial f}{\\partial y} \\sin \\phi$$"
-   536874690]
+   "$$\\frac{\\partial f}{\\partial l} = \\frac {\\partial f} {\\partial x} \\cos \\varphi + \\frac {\\partial f}{\\partial y} \\sin \\varphi$$"
+   536874830]
   [538 :block/uid "XWyomDx41" 536874639]
   [538 :create/time 1623232316322 536874639]
   [538 :create/user 3 536874639]
-  [538 :edit/time 1623236817807 536874690]
+  [538 :edit/time 1623239012315 536874830]
   [538 :edit/user 3 536874639]
   [539 :block/open true 536874691]
   [539 :block/order 0 536874693]
@@ -2869,9 +2871,66 @@
   [539 :block/parents 387 536874692]
   [539 :block/parents 537 536874692]
   [539 :block/parents 538 536874694]
-  [539 :block/string "$$\\phi$$ 为 X 轴到 L 的角度" 536874704]
+  [539 :block/string "$$\\varphi$$ 为 X 轴到 L 的角度" 536874831]
   [539 :block/uid "PH0Gs7Y46" 536874691]
   [539 :create/time 1623237244254 536874691]
   [539 :create/user 3 536874691]
-  [539 :edit/time 1623237278107 536874704]
-  [539 :edit/user 3 536874691]]}
+  [539 :edit/time 1623239042768 536874831]
+  [539 :edit/user 3 536874691]
+  [540 :block/open true 536874706]
+  [540 :block/order 1 536874706]
+  [540 :block/page 387 536874707]
+  [540 :block/parents 309 536874707]
+  [540 :block/parents 310 536874707]
+  [540 :block/parents 331 536874707]
+  [540 :block/parents 387 536874707]
+  [540 :block/parents 537 536874707]
+  [540
+   :block/props
+   {:image-size
+    {"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FUOhX4PCvFF.png?alt=media&token=1c09ec9c-bf12-4466-988a-31aa276e9f33"
+     {:width 189, :height ##NaN}}}
+   536874711]
+  [540
+   :block/string
+   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FUOhX4PCvFF.png?alt=media&token=1c09ec9c-bf12-4466-988a-31aa276e9f33) "
+   536874722]
+  [540 :block/uid "NoHkF6xXj" 536874706]
+  [540 :create/time 1623237912483 536874706]
+  [540 :create/user 3 536874706]
+  [540 :edit/time 1623238278339 536874722]
+  [540 :edit/user 3 536874706]
+  [542 :block/children 543 536874764]
+  [542 :block/open true 536874723]
+  [542 :block/order 4 536874725]
+  [542 :block/page 387 536874724]
+  [542 :block/parents 309 536874724]
+  [542 :block/parents 310 536874724]
+  [542 :block/parents 331 536874724]
+  [542 :block/parents 387 536874724]
+  [542
+   :block/string
+   "求函数$$z = xe^{2y}$$ 在点 $$P(1,0)$$处沿从点$$P(1,0)$$到点$$Q(2,-1)$$的方向的方向导数。"
+   536874761]
+  [542 :block/uid "WrPWEQDZO" 536874723]
+  [542 :create/time 1623238548220 536874723]
+  [542 :create/user 3 536874723]
+  [542 :edit/time 1623238653516 536874761]
+  [542 :edit/user 3 536874723]
+  [543 :block/open true 536874762]
+  [543 :block/order 0 536874764]
+  [543 :block/page 387 536874763]
+  [543 :block/parents 309 536874763]
+  [543 :block/parents 310 536874763]
+  [543 :block/parents 331 536874763]
+  [543 :block/parents 387 536874763]
+  [543 :block/parents 542 536874765]
+  [543
+   :block/string
+   "解： 这里方向 $$\\overrightarrow{l}$$ 即为 $$\\overrightarrow{PQ} = \\{1, -1\\}$$，\n故 $$x$$ 轴到方向 $$\\overrightarrow{l}$$的转角$$\\varphi = - \\frac {\\pi}{4}$$"
+   536874828]
+  [543 :block/uid "3oUURkCCx" 536874762]
+  [543 :create/time 1623238653703 536874762]
+  [543 :create/user 3 536874762]
+  [543 :edit/time 1623238999075 536874828]
+  [543 :edit/user 3 536874762]]}
