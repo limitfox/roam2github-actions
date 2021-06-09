@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuidde65e894-cf4e-49d0-9d39-d8ea6489640d"
-   536874185]
+   "uuid82c31b4c-f686-43e9-ae2a-8af830607717"
+   536874188]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -139,6 +139,7 @@
   [309 :block/children 311 536871244]
   [309 :block/children 312 536871244]
   [309 :block/children 313 536871244]
+  [309 :block/children 314 536874186]
   [309 :block/children 315 536871244]
   [309 :block/children 316 536871244]
   [309 :block/children 317 536871244]
@@ -194,8 +195,9 @@
   [313 :create/time 1622668470000 536871244]
   [313 :create/user 3 536871244]
   [314 :block/open false 536871244]
-  [314 :block/order 1 536872037]
+  [314 :block/order 15 536874186]
   [314 :block/page 387 536872038]
+  [314 :block/parents 309 536874187]
   [314 :block/parents 387 536872038]
   [314 :block/string "特征值与矩阵分解" 536871244]
   [314 :block/uid "FBOPqC70f" 536871244]
@@ -770,15 +772,7 @@
   [380 :block/uid "saQ1N71Aq" 536871244]
   [380 :create/time 1622668470000 536871244]
   [380 :create/user 3 536871244]
-  [381 :block/open false 536871244]
-  [381 :block/order 2 536872037]
-  [381 :block/string "" 536871244]
-  [381 :block/uid "zp6tdWszv" 536871244]
-  [381 :create/time 1622668470000 536871244]
-  [381 :create/user 3 536871244]
   [387 :block/children 309 536871244]
-  [387 :block/children 314 536872037]
-  [387 :block/children 381 536871244]
   [387 :block/uid "7qRFDo774" 536871245]
   [387 :create/time 1622697457445 536871245]
   [387 :create/user 3 536871244]

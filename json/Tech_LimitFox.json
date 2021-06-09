@@ -2153,25 +2153,17 @@
             ":create/user": {
               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
             }
+          },
+          {
+            "string": "特征值与矩阵分解",
+            "create-time": 1622668470000,
+            "uid": "FBOPqC70f",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
           }
         ],
         "uid": "4rFMmR_0E",
-        ":create/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        }
-      },
-      {
-        "string": "特征值与矩阵分解",
-        "create-time": 1622668470000,
-        "uid": "FBOPqC70f",
-        ":create/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1622668470000,
-        "uid": "zp6tdWszv",
         ":create/user": {
           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
         }
