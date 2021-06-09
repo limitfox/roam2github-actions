@@ -1941,10 +1941,38 @@
                     },
                     "children": [
                       {
-                        "string": "$$\\left. \\frac {\\partial f}{\\partial x} \\right| _{ x=x_0 \\atop y=y_0} = \\frac d {dy}f(x_0, y)| _{y=y_0}$$ 是曲线 $$\\begin{cases} {z=f(x, y)} \\\\ {y = y_0} \\end{cases}$$ 在点 $$M_0$$ 处的切线 $$M_0T_y$$ 对 $$y$$ 轴的斜率。",
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FIPk0R6VvqB.png?alt=media&token=111d4c1d-60cb-41aa-b151-a7fccf44a195)",
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FIPk0R6VvqB.png?alt=media&token=111d4c1d-60cb-41aa-b151-a7fccf44a195": {
+                              "width": 263,
+                              "height": null
+                            }
+                          }
+                        },
+                        "create-time": 1623221016885,
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FIPk0R6VvqB.png?alt=media&token=111d4c1d-60cb-41aa-b151-a7fccf44a195": {
+                              ":width": 263,
+                              ":height": null
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "uid": "rQN8842_E",
+                        "edit-time": 1623221021218,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$\\left. \\frac {\\partial f}{\\partial x} \\right| _{ x=x_0 \\atop y=y_0} = \\frac d {dx}f(x, y_0)| _{x=x_0}$$ 是曲线 $$\\begin{cases} {z=f(x, y)} \\\\ {y = y_0} \\end{cases}$$ 在点 $$M_0$$ 处的切线 $$M_0T_x$$ 对 $$x$$ 轴的斜率。",
                         "create-time": 1623166670232,
                         "uid": "UNxGiJ1uN",
-                        "edit-time": 1623220032342,
+                        "edit-time": 1623221261954,
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
@@ -1953,10 +1981,10 @@
                         }
                       },
                       {
-                        "string": "",
+                        "string": "$$\\left. \\frac {\\partial f}{\\partial y} \\right| _{ x=x_0 \\atop y=y_0} = \\frac d {dy}f(x_0, y)| _{y=y_0}$$ 是曲线 $$\\begin{cases} {z=f(x, y)} \\\\ {x = x_0} \\end{cases}$$ 在点 $$M_0$$ 处的切线 $$M_0T_y$$ 对 $$y$$ 轴的斜率。",
                         "create-time": 1623165954722,
                         "uid": "MXRqKbjip",
-                        "edit-time": 1623165954722,
+                        "edit-time": 1623221291494,
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
@@ -1967,6 +1995,68 @@
                     ],
                     "uid": "4sh8QUHY1",
                     "edit-time": 1622956400350,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "求$$f(x,y) = x^2 + 3xy + y^2$$ 在点 (1,2) 处的偏导数。",
+                    "create-time": 1623221497115,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "$$f_x(x,y) = 2x + 3y$$",
+                        "create-time": 1623221588467,
+                        "uid": "qsdoaMJCF",
+                        "edit-time": 1623221656882,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$f_y(x,y) = 3x+2y$$",
+                        "create-time": 1623221661784,
+                        "uid": "1ndGrPwrG",
+                        "edit-time": 1623222349339,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "$$\\left. f_x(1, 2) = (2x+3y) \\right| _{x=1 \\atop y=2} $$",
+                        "create-time": 1623222349932,
+                        "uid": "ycBJLgClq",
+                        "edit-time": 1623222636335,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "",
+                        "create-time": 1623222382884,
+                        "uid": "s5C1Grnr1",
+                        "edit-time": 1623222382884,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "FgnVOodRg",
+                    "edit-time": 1623221588475,
                     ":edit/user": {
                       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                     }
