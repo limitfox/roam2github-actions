@@ -1908,10 +1908,10 @@
                             }
                           },
                           {
-                            "string": "则称 $$A$$为函数: $$z=f(x,y)$$在点$$(x_0, y_0)$$处关于自变量$$X$$的偏导数记作：$$f_x(x_0, y_0)$$ 或者 $$\\frac {\\partial _z} {\\partial _x} | _{x=x_0, y=y_0}$$ $$f_x(x_0, y_0)$$ 或者 $$\\frac {\\partial f} {\\partial _x} | _{x=x_0, y=y_0}$$ $$f_x(x_0, y_0)$$ 或者 $$z_x | _{x=x_0, y=y_0}$$  ",
+                            "string": "则称 $$A$$为函数: $$z=f(x,y)$$在点$$(x_0, y_0)$$处关于自变量$$X$$的偏导数记作：$$f_x(x_0, y_0)$$ 或者 $$\\left. \\frac {\\partial _z} {\\partial _x} \\right| _{x=x_0 \\atop y=y_0}$$ $$f_x(x_0, y_0)$$ 或者 $$\\frac {\\partial f} {\\partial _x} | _{x=x_0 \\atop y=y_0}$$ $$f_x(x_0, y_0)$$ 或者 $$z_x | _{x=x_0 \\atop y=y_0}$$  ",
                             "create-time": 1622953973894,
                             "uid": "HR0gzhXOZ",
-                            "edit-time": 1622956221689,
+                            "edit-time": 1623220125646,
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },
@@ -1941,10 +1941,10 @@
                     },
                     "children": [
                       {
-                        "string": "$$\\left. \\frac {\\partial f}{\\partial x} \\right| _{ x=x_0, y=y_0} = \\frac d {dy}f(x_0, y)| _{y=y_0}$$ 是曲线 $$\\begin{cases} {z=f(x, y)} \\\\ {y = y_0} \\end{cases}$$ 在点 $$M_0$$ 处的切线 $$M_0T_y$$ 对 $$y$$ 轴的斜率。",
+                        "string": "$$\\left. \\frac {\\partial f}{\\partial x} \\right| _{ x=x_0 \\atop y=y_0} = \\frac d {dy}f(x_0, y)| _{y=y_0}$$ 是曲线 $$\\begin{cases} {z=f(x, y)} \\\\ {y = y_0} \\end{cases}$$ 在点 $$M_0$$ 处的切线 $$M_0T_y$$ 对 $$y$$ 轴的斜率。",
                         "create-time": 1623166670232,
                         "uid": "UNxGiJ1uN",
-                        "edit-time": 1623166935442,
+                        "edit-time": 1623220032342,
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
