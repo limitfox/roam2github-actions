@@ -2043,10 +2043,10 @@
                         }
                       },
                       {
-                        "string": "",
+                        "string": "$$f_y(1,2) = (3x + 2y) | _{x=1 \\atop y=2} = 7$$",
                         "create-time": 1623222382884,
                         "uid": "s5C1Grnr1",
-                        "edit-time": 1623222382884,
+                        "edit-time": 1623227033571,
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
@@ -2071,16 +2071,138 @@
               {
                 "string": "方向导数",
                 "create-time": 1622668470000,
+                "children": [
+                  {
+                    "edit-time": 1623227226022,
+                    "children": [
+                      {
+                        "string": "蚂蚁沿什么方向跑路才能活？",
+                        "create-time": 1623227228939,
+                        "uid": "P5_0Vasj4",
+                        "edit-time": 1623227318075,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FJM1RUrNSDA.png?alt=media&token=ff944ead-16ed-4451-be98-1396a3fc765d)",
+                        "create-time": 1623227447441,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "函数：$$z = f(x,y)$$",
+                            "create-time": 1623227333754,
+                            "uid": "vY9qPeVld",
+                            "edit-time": 1623227428182,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "$$|PP'| = \\rho = \\sqrt {(\\Delta x)^2 + (\\Delta y)^2} $$",
+                            "create-time": 1623227465062,
+                            "uid": "MQeLdKJNN",
+                            "edit-time": 1623227665609,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          },
+                          {
+                            "string": "$$\\Delta z = f(x + \\Delta x, y + \\Delta y) = f(x, y)$$",
+                            "create-time": 1623227680880,
+                            "uid": "oPAjWnTU3",
+                            "edit-time": 1623227729759,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "3wu98hjDJ",
+                        "edit-time": 1623227458147,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "fdsBP6qbJ",
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FGwsJy3vy6n.png?alt=media&token=00961888-1087-40b6-97f6-997c35f308ac)",
+                    ":block/props": {
+                      ":image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FGwsJy3vy6n.png?alt=media&token=00961888-1087-40b6-97f6-997c35f308ac": {
+                          ":width": 300,
+                          ":height": null
+                        }
+                      }
+                    },
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "create-time": 1623227203536,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "props": {
+                      "image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FGwsJy3vy6n.png?alt=media&token=00961888-1087-40b6-97f6-997c35f308ac": {
+                          "width": 300,
+                          "height": null
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "string": "如果函数的增量，这两点距离的比例存在，则称此为在 P 点沿着 L 的方向导数 $$ \\frac {\\partial f} {\\partial l} = \\lim\\limits_{\\rho \\to 0} \\frac {f(x + \\Delta x, y + \\Delta y) - f(x,y)} \\rho $$",
+                    "create-time": 1623227823830,
+                    "uid": "gT1qs-qdR",
+                    "edit-time": 1623229257618,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "函数：$$f(x,y)$$ 在 X 轴正向 ，",
+                    "create-time": 1623229261543,
+                    "uid": "MTz8c8tXn",
+                    "edit-time": 1623229733767,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
                 "uid": "qxoN_0fQi",
                 ":create/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                 }
               },
               {
-                "string": "梯度",
+                "string": " 梯度",
                 "create-time": 1622668470000,
                 "uid": "CFrZp-rlT",
+                "edit-time": 1623228213285,
                 ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                 }
               }
