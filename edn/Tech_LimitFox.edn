@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuidb6f37672-fd32-49d9-946d-abdda7a14e9a"
-   536874674]
+   "uuid99b7fa87-66d2-42d7-8477-f9db91857c43"
+   536874704]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -2842,6 +2842,7 @@
   [537 :create/user 3 536874615]
   [537 :edit/time 1623232597574 536874674]
   [537 :edit/user 3 536874615]
+  [538 :block/children 539 536874693]
   [538 :block/open true 536874639]
   [538 :block/order 0 536874642]
   [538 :block/page 387 536874640]
@@ -2852,10 +2853,25 @@
   [538 :block/parents 537 536874643]
   [538
    :block/string
-   "$$\\frac{\\partial f}{\\partial l} = \\frac {\\partial f} {\\partial x} \\cos \\phi$$"
-   536874669]
+   "$$\\frac{\\partial f}{\\partial l} = \\frac {\\partial f} {\\partial x} \\cos \\phi + \\frac {\\partial f}{\\partial y} \\sin \\phi$$"
+   536874690]
   [538 :block/uid "XWyomDx41" 536874639]
   [538 :create/time 1623232316322 536874639]
   [538 :create/user 3 536874639]
-  [538 :edit/time 1623232462299 536874669]
-  [538 :edit/user 3 536874639]]}
+  [538 :edit/time 1623236817807 536874690]
+  [538 :edit/user 3 536874639]
+  [539 :block/open true 536874691]
+  [539 :block/order 0 536874693]
+  [539 :block/page 387 536874692]
+  [539 :block/parents 309 536874692]
+  [539 :block/parents 310 536874692]
+  [539 :block/parents 331 536874692]
+  [539 :block/parents 387 536874692]
+  [539 :block/parents 537 536874692]
+  [539 :block/parents 538 536874694]
+  [539 :block/string "$$\\phi$$ 为 X 轴到 L 的角度" 536874704]
+  [539 :block/uid "PH0Gs7Y46" 536874691]
+  [539 :create/time 1623237244254 536874691]
+  [539 :create/user 3 536874691]
+  [539 :edit/time 1623237278107 536874704]
+  [539 :edit/user 3 536874691]]}
