@@ -2165,10 +2165,10 @@
                     }
                   },
                   {
-                    "string": "如果函数的增量，这两点距离的比例存在，则称此为在 P 点沿着 L 的方向导数 $$ \\frac {\\partial f} {\\partial l} = \\lim\\limits_{\\rho \\to 0} \\frac {f(x + \\Delta x, y + \\Delta y) - f(x,y)} \\rho $$",
+                    "string": "如果函数的增量，这两点距离的比例存在，则称此为^^在 P 点沿着 L 的方向导数^^ $$ \\frac {\\partial f} {\\partial l} = \\lim\\limits_{\\rho \\to 0} \\frac {f(x + \\Delta x, y + \\Delta y) - f(x,y)} \\rho $$",
                     "create-time": 1623227823830,
                     "uid": "gT1qs-qdR",
-                    "edit-time": 1623229257618,
+                    "edit-time": 1623232582571,
                     ":create/user": {
                       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                     },
@@ -2177,13 +2177,39 @@
                     }
                   },
                   {
-                    "string": "函数：$$f(x,y)$$ 在 X 轴正向 ，",
+                    "string": "函数：$$f(x,y)$$ 在 X 轴正向 $$\\overrightarrow{e_1} = \\{1,0 \\}$$ ，Y轴正向 $$\\overrightarrow{e_2} = \\{0,1\\}$$ 的^^方向导数^^分别为：$$f_x, f_y$$ ^^负方向导数^^：$$-f_x, -f_y$$",
                     "create-time": 1623229261543,
                     "uid": "MTz8c8tXn",
-                    "edit-time": 1623229733767,
+                    "edit-time": 1623232572446,
                     ":create/user": {
                       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                     },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "定理：如果函数 $$z = f(x,y)在点P(x,y)$$是^^可微分^^的，那么^^在该点沿任意方向L的方向L导数都存在^^。",
+                    "create-time": 1623232253595,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "$$\\frac{\\partial f}{\\partial l} = \\frac {\\partial f} {\\partial x} \\cos \\phi$$",
+                        "create-time": 1623232316322,
+                        "uid": "XWyomDx41",
+                        "edit-time": 1623232462299,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "kYs8BRada",
+                    "edit-time": 1623232597574,
                     ":edit/user": {
                       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                     }

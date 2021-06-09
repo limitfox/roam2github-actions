@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuid0a737116-5c7e-431e-aa57-79eca4dbb8c4"
-   536874555]
+   "uuidb6f37672-fd32-49d9-946d-abdda7a14e9a"
+   536874674]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -323,6 +323,7 @@
   [331 :block/children 528 536874343]
   [331 :block/children 535 536874437]
   [331 :block/children 536 536874535]
+  [331 :block/children 537 536874615]
   [331 :block/open true 536874343]
   [331 :block/order 6 536873735]
   [331 :block/string "方向导数" 536871244]
@@ -2801,12 +2802,12 @@
   [535 :block/parents 387 536874434]
   [535
    :block/string
-   "如果函数的增量，这两点距离的比例存在，则称此为在 P 点沿着 L 的方向导数 $$ \\frac {\\partial f} {\\partial l} = \\lim\\limits_{\\rho \\to 0} \\frac {f(x + \\Delta x, y + \\Delta y) - f(x,y)} \\rho $$"
-   536874534]
+   "如果函数的增量，这两点距离的比例存在，则称此为^^在 P 点沿着 L 的方向导数^^ $$ \\frac {\\partial f} {\\partial l} = \\lim\\limits_{\\rho \\to 0} \\frac {f(x + \\Delta x, y + \\Delta y) - f(x,y)} \\rho $$"
+   536874672]
   [535 :block/uid "gT1qs-qdR" 536874433]
   [535 :create/time 1623227823830 536874433]
   [535 :create/user 3 536874433]
-  [535 :edit/time 1623229257618 536874534]
+  [535 :edit/time 1623232582571 536874672]
   [535 :edit/user 3 536874433]
   [536 :block/open true 536874535]
   [536 :block/order 2 536874535]
@@ -2815,9 +2816,46 @@
   [536 :block/parents 310 536874536]
   [536 :block/parents 331 536874536]
   [536 :block/parents 387 536874536]
-  [536 :block/string "函数：$$f(x,y)$$ 在 X 轴正向 ，" 536874555]
+  [536
+   :block/string
+   "函数：$$f(x,y)$$ 在 X 轴正向 $$\\overrightarrow{e_1} = \\{1,0 \\}$$ ，Y轴正向 $$\\overrightarrow{e_2} = \\{0,1\\}$$ 的^^方向导数^^分别为：$$f_x, f_y$$ ^^负方向导数^^：$$-f_x, -f_y$$"
+   536874671]
   [536 :block/uid "MTz8c8tXn" 536874535]
   [536 :create/time 1623229261543 536874535]
   [536 :create/user 3 536874535]
-  [536 :edit/time 1623229733767 536874555]
-  [536 :edit/user 3 536874535]]}
+  [536 :edit/time 1623232572446 536874671]
+  [536 :edit/user 3 536874535]
+  [537 :block/children 538 536874642]
+  [537 :block/open true 536874615]
+  [537 :block/order 3 536874615]
+  [537 :block/page 387 536874616]
+  [537 :block/parents 309 536874616]
+  [537 :block/parents 310 536874616]
+  [537 :block/parents 331 536874616]
+  [537 :block/parents 387 536874616]
+  [537
+   :block/string
+   "定理：如果函数 $$z = f(x,y)在点P(x,y)$$是^^可微分^^的，那么^^在该点沿任意方向L的方向L导数都存在^^。"
+   536874674]
+  [537 :block/uid "kYs8BRada" 536874615]
+  [537 :create/time 1623232253595 536874615]
+  [537 :create/user 3 536874615]
+  [537 :edit/time 1623232597574 536874674]
+  [537 :edit/user 3 536874615]
+  [538 :block/open true 536874639]
+  [538 :block/order 0 536874642]
+  [538 :block/page 387 536874640]
+  [538 :block/parents 309 536874640]
+  [538 :block/parents 310 536874640]
+  [538 :block/parents 331 536874640]
+  [538 :block/parents 387 536874640]
+  [538 :block/parents 537 536874643]
+  [538
+   :block/string
+   "$$\\frac{\\partial f}{\\partial l} = \\frac {\\partial f} {\\partial x} \\cos \\phi$$"
+   536874669]
+  [538 :block/uid "XWyomDx41" 536874639]
+  [538 :create/time 1623232316322 536874639]
+  [538 :create/user 3 536874639]
+  [538 :edit/time 1623232462299 536874669]
+  [538 :edit/user 3 536874639]]}
