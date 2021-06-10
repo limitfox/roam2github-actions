@@ -2274,6 +2274,18 @@
                         ":edit/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         }
+                      },
+                      {
+                        "string": "",
+                        "create-time": 1623297794955,
+                        "uid": "K4Pk0bS9C",
+                        "edit-time": 1623297794955,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
                       }
                     ],
                     "uid": "WrPWEQDZO",
@@ -2560,44 +2572,190 @@
     },
     "children": [
       {
-        "string": "",
+        "string": "#记录",
         "create-time": 1623295829441,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        "children": [
+          {
+            "string": "10:30 声加会议结束",
+            "create-time": 1623296999672,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "会议纪要：",
+                "create-time": 1623297072632,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "string": "目前可以使用3x3麦阵进行可行性评估。",
+                    "uid": "Cae8Op7L_",
+                    "edit-time": 1623297114871,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "结构上再次确认是否可以向2.5x2.5方阵靠拢（方阵靠向一侧）。",
+                    "uid": "3YR4SX69F",
+                    "edit-time": 1623297116964,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "算法输出的动态增益可配置，启动后统一RK HIFI3编译环境版本，提供API进行调用。",
+                    "uid": "SI2bvvKm8",
+                    "edit-time": 1623297119023,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "pIEOxi_m8",
+                "edit-time": 1623297072632,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "jvbsSwqln",
+            "edit-time": 1623297046735,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          }
+        ],
         "uid": "KNXnCgO5r",
-        "edit-time": 1623295948635,
-        ":create/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        },
+        "edit-time": 1623296999464,
         ":edit/user": {
           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
         }
       },
       {
-        "string": "#知识",
+        "string": "#知识 ",
         "create-time": 1623295838678,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        "children": [
+          {
+            "string": "",
+            "create-time": 1623295869216,
+            "uid": "_20TNdaXV",
+            "edit-time": 1623295869216,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          }
+        ],
         "uid": "9VB06OqZF",
-        "edit-time": 1623295869170,
-        ":create/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        },
-        ":edit/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1623295869216,
-        "uid": "_20TNdaXV",
-        "edit-time": 1623295869216,
-        ":create/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        },
+        "edit-time": 1623296991210,
         ":edit/user": {
           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
         }
       }
     ],
     "uid": "06-10-2021",
-    "edit-time": 1623285909926,
+    "edit-time": 1623297007704,
+    ":edit/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    }
+  },
+  {
+    "create-time": 1623297388223,
+    "title": "明略科技",
+    ":create/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1623297732427,
+        "uid": "Juj-0aCtM",
+        "edit-time": 1623297732427,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "供应商",
+        "create-time": 1623297732279,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        "children": [
+          {
+            "string": "算法供应商",
+            "create-time": 1623297738856,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "声加算法",
+                "create-time": 1623297453692,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "string": "((jvbsSwqln))",
+                    "create-time": 1623297392512,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "jvbsSwqln"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "jvbsSwqln"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "uid": "TmX_yW_mQ",
+                    "edit-time": 1623297443898,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "iAw0xJYjC",
+                "edit-time": 1623297460409,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "25qcKaP9l",
+            "edit-time": 1623297744043,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          }
+        ],
+        "uid": "n82v8scP4",
+        "edit-time": 1623297737867,
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      }
+    ],
+    "uid": "7kD_YAfQI",
+    "edit-time": 1623297388223,
     ":edit/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     }
