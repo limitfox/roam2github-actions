@@ -2485,6 +2485,18 @@
         ":create/user": {
           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
         }
+      },
+      {
+        "string": "",
+        "create-time": 1623303319581,
+        "uid": "NF6kmJo4c",
+        "edit-time": 1623303319581,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
       }
     ],
     "uid": "7qRFDo774",
@@ -2572,11 +2584,7 @@
     },
     "children": [
       {
-        "string": "#记录",
-        "create-time": 1623295829441,
-        ":create/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        },
+        "edit-time": 1623303313161,
         "children": [
           {
             "string": "10:30 声加会议结束",
@@ -2632,9 +2640,45 @@
           }
         ],
         "uid": "KNXnCgO5r",
-        "edit-time": 1623296999464,
+        "string": "#记录",
+        ":block/props": {
+          ":diagram": {
+            ":nodes": {
+              "jvbsSwqln": {
+                ":width": 163.00000000000003,
+                ":height": 44.44,
+                ":id": "jvbsSwqln",
+                ":x": -67.16460000000004,
+                ":y": -2.1666000000000096
+              }
+            },
+            ":links": {},
+            ":groups": {},
+            ":selected": []
+          }
+        },
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        "create-time": 1623295829441,
         ":edit/user": {
           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        "props": {
+          "diagram": {
+            "nodes": {
+              "jvbsSwqln": {
+                "width": 163.00000000000003,
+                "height": 44.44,
+                "id": "jvbsSwqln",
+                "x": -67.16460000000004,
+                "y": -2.1666000000000096
+              }
+            },
+            "links": {},
+            "groups": {},
+            "selected": []
+          }
         }
       },
       {
