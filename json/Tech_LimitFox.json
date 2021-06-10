@@ -2637,6 +2637,42 @@
             ":edit/user": {
               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
             }
+          },
+          {
+            "string": "11:30 盛信结构麦阵摆放评估，受按键摆件影响，2.5x2.5麦阵需要放置于右侧",
+            "create-time": 1623363088165,
+            "uid": "uM6fHVIzN",
+            "edit-time": 1623363088165,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "14:00 买咖啡，拿端午礼品",
+            "create-time": 1623363124281,
+            "uid": "dUn_acGkI",
+            "edit-time": 1623363124281,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "18:00 绩效 ",
+            "create-time": 1623362997305,
+            "uid": "NwDlFeO8k",
+            "edit-time": 1623363135763,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
           }
         ],
         "uid": "KNXnCgO5r",
@@ -2800,6 +2836,32 @@
     ],
     "uid": "7kD_YAfQI",
     "edit-time": 1623297388223,
+    ":edit/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    }
+  },
+  {
+    "create-time": 1623362986294,
+    "title": "June 11th, 2021",
+    ":create/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1623363145050,
+        "uid": "bCY2ag3VU",
+        "edit-time": 1623363145050,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      }
+    ],
+    "uid": "06-11-2021",
+    "edit-time": 1623362986294,
     ":edit/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     }
