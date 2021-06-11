@@ -472,11 +472,25 @@
   {
     "create-time": 1623111725652,
     "title": "June 8th, 2021",
-    "uid": "06-08-2021",
-    "edit-time": 1623111725652,
     ":create/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1623426922891,
+        "uid": "btm91UYBA",
+        "edit-time": 1623426922891,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      }
+    ],
+    "uid": "06-08-2021",
+    "edit-time": 1623111725652,
     ":edit/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     }
@@ -484,11 +498,25 @@
   {
     "create-time": 1623199116993,
     "title": "June 9th, 2021",
-    "uid": "06-09-2021",
-    "edit-time": 1623199116993,
     ":create/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1623426925995,
+        "uid": "e1EWJYHWi",
+        "edit-time": 1623426925995,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      }
+    ],
+    "uid": "06-09-2021",
+    "edit-time": 1623199116993,
     ":edit/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     }
@@ -4455,13 +4483,27 @@
             },
             "children": [
               {
-                "string": "种用定义计算定积分 $$\\int_{a}^{b} x^2 dx$$",
+                "string": "利用定义计算定积分 $$\\int_{a}^{b} x^2 dx$$",
                 "create-time": 1623404513112,
-                "uid": "7WDfblatL",
-                "edit-time": 1623404554974,
                 ":create/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                 },
+                "children": [
+                  {
+                    "string": "将[0,1]n等分，分点为$$x_{i}=\\frac{i}{n},(i=1,2, \\cdots, n)$$",
+                    "create-time": 1623426662405,
+                    "uid": "D8GdkJmTZ",
+                    "edit-time": 1623426717213,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "7WDfblatL",
+                "edit-time": 1623426601576,
                 ":edit/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                 }
@@ -4498,6 +4540,18 @@
     ],
     "uid": "3UoQh5ItG",
     "edit-time": 1623400572156,
+    ":edit/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    }
+  },
+  {
+    "create-time": 1623427233431,
+    "title": "June 12th, 2021",
+    "uid": "06-12-2021",
+    "edit-time": 1623427233431,
+    ":create/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    },
     ":edit/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     }
