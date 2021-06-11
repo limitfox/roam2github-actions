@@ -1745,6 +1745,46 @@
             }
           },
           {
+            "string": "$$\\lim\\limits_{x \\to x_0} f(x) = A$$ 的充要条件是 $$\\lim\\limits_{x \\to x_0^-} f(x)= \\lim\\limits_{x \\to x_0^+}f(x) = A$$",
+            "create-time": 1622668470000,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "$$f(x)=\\begin{cases}x-1, &x<0 \\\\ 0, &x=0 \\\\ x+1, &x>0\\end{cases}$$\n求当$$x \\to 0$$时$$f(x)$$的极限？",
+                "create-time": 1622668470000,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "string": "解： \n$$\\lim\\limits_{x \\to 0^+}f(x) = \\lim\\limits_{x \\to 0^+}(x+1) = 1$$\n$$\\lim\\limits_{x \\to 0^-}f(x) = \\lim\\limits_{x \\to 0^-}(x-1) = -1$$\n左右极限存在但不相等\n$$\\therefore$$  $$\\lim\\limits_{x \\to 0}f(x)$$ 不存在",
+                    "create-time": 1622716003223,
+                    "uid": "5k9f3toRn",
+                    "edit-time": 1622717237907,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "KTVcK96ZK",
+                "edit-time": 1622717242464,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "I6lQ5X2Oa",
+            "edit-time": 1622701678299,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
             "string": "左、右极限",
             "create-time": 1622668470000,
             "children": [
@@ -1785,46 +1825,6 @@
             ],
             "uid": "cHF0oCNSR",
             ":create/user": {
-              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-            }
-          },
-          {
-            "string": "$$\\lim\\limits_{x \\to x_0} f(x) = A$$ 的充要条件是 $$\\lim\\limits_{x \\to x_0^-} f(x)= \\lim\\limits_{x \\to x_0^+}f(x) = A$$",
-            "create-time": 1622668470000,
-            ":create/user": {
-              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-            },
-            "children": [
-              {
-                "string": "$$f(x)=\\begin{cases}x-1, &x<0 \\\\ 0, &x=0 \\\\ x+1, &x>0\\end{cases}$$\n求当$$x \\to 0$$时$$f(x)$$的极限？",
-                "create-time": 1622668470000,
-                ":create/user": {
-                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                },
-                "children": [
-                  {
-                    "string": "解： \n$$\\lim\\limits_{x \\to 0^+}f(x) = \\lim\\limits_{x \\to 0^+}(x+1) = 1$$\n$$\\lim\\limits_{x \\to 0^-}f(x) = \\lim\\limits_{x \\to 0^-}(x-1) = -1$$\n左右极限存在但不相等\n$$\\therefore$$  $$\\lim\\limits_{x \\to 0}f(x)$$ 不存在",
-                    "create-time": 1622716003223,
-                    "uid": "5k9f3toRn",
-                    "edit-time": 1622717237907,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  }
-                ],
-                "uid": "KTVcK96ZK",
-                "edit-time": 1622717242464,
-                ":edit/user": {
-                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                }
-              }
-            ],
-            "uid": "I6lQ5X2Oa",
-            "edit-time": 1622701678299,
-            ":edit/user": {
               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
             }
           }
