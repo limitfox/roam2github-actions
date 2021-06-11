@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuid716057c2-6c27-4585-96da-f4c981cd1838"
-   536876315]
+   "uuidde9792e9-3fae-4522-ac21-dad26e00b79a"
+   536876348]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -3384,6 +3384,8 @@
   [608 :block/children 610 536875325]
   [608 :block/children 612 536875343]
   [608 :block/children 694 536875994]
+  [608 :block/children 732 536876316]
+  [608 :block/children 733 536876333]
   [608 :block/open true 536875300]
   [608 :block/order 0 536875300]
   [608 :block/page 567 536875302]
@@ -4676,4 +4678,26 @@
   [731 :create/time 1623404513112 536876299]
   [731 :create/user 3 536876299]
   [731 :edit/time 1623404554974 536876315]
-  [731 :edit/user 3 536876299]]}
+  [731 :edit/user 3 536876299]
+  [732 :block/open true 536876316]
+  [732 :block/order 4 536876333]
+  [732 :block/page 567 536876317]
+  [732 :block/parents 567 536876317]
+  [732 :block/parents 608 536876317]
+  [732 :block/string "18:03 线索系统1.1上线评审会" 536876336]
+  [732 :block/uid "tR7-8hDmO" 536876316]
+  [732 :create/time 1623412952382 536876316]
+  [732 :create/user 3 536876316]
+  [732 :edit/time 1623413082165 536876336]
+  [732 :edit/user 3 536876316]
+  [733 :block/open true 536876333]
+  [733 :block/order 3 536876333]
+  [733 :block/page 567 536876334]
+  [733 :block/parents 567 536876334]
+  [733 :block/parents 608 536876334]
+  [733 :block/string "17:30 声加2.3评估" 536876348]
+  [733 :block/uid "6okeBJVuS" 536876333]
+  [733 :create/time 1623413066802 536876333]
+  [733 :create/user 3 536876333]
+  [733 :edit/time 1623413203740 536876348]
+  [733 :edit/user 3 536876333]]}
