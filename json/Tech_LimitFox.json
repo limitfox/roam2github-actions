@@ -3786,10 +3786,22 @@
                         }
                       },
                       {
-                        "string": "那么此时如果$$D_{u} f(x, y)$$ 要取得最大值，也就是当$$\\varphi$$为0度的时候，也就是向量$$I$$(这个方向是一直在变，在寻找一个函数变化最快的方向)与向量$$A$$()",
+                        "string": "那么此时如果$$D_{u} f(x, y)$$ 要取得最大值，也就是当$$\\varphi$$为0度的时候，也就是向量$$I$$(这个方向是一直在变，在寻找一个函数变化最快的方向)与向量$$A$$(这个方向当点固定下来的时候，它就是固定的)平行的时候，方向导数最大。",
                         "create-time": 1623399437490,
                         "uid": "UV_LmMlav",
-                        "edit-time": 1623399665949,
+                        "edit-time": 1623399697140,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "",
+                        "create-time": 1623399697798,
+                        "uid": "e_aCQVWIg",
+                        "edit-time": 1623399697798,
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },

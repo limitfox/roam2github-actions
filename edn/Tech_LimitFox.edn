@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuidb8cf5572-9e47-46fb-b6e7-544f08ede5b8"
-   536875874]
+   "uuid7b87be61-367e-4dc5-bbae-bdbe0a21f07b"
+   536875885]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -3992,6 +3992,7 @@
   [675 :edit/user 3 536875789]
   [676 :block/children 677 536875824]
   [676 :block/children 678 536875818]
+  [676 :block/children 679 536875884]
   [676 :block/open true 536875800]
   [676 :block/order 0 536875802]
   [676 :block/page 647 536875801]
@@ -4018,12 +4019,12 @@
   [677 :block/parents 676 536875825]
   [677
    :block/string
-   "那么此时如果$$D_{u} f(x, y)$$ 要取得最大值，也就是当$$\\varphi$$为0度的时候，也就是向量$$I$$(这个方向是一直在变，在寻找一个函数变化最快的方向)与向量$$A$$()"
-   536875874]
+   "那么此时如果$$D_{u} f(x, y)$$ 要取得最大值，也就是当$$\\varphi$$为0度的时候，也就是向量$$I$$(这个方向是一直在变，在寻找一个函数变化最快的方向)与向量$$A$$(这个方向当点固定下来的时候，它就是固定的)平行的时候，方向导数最大。"
+   536875883]
   [677 :block/uid "UV_LmMlav" 536875814]
   [677 :create/time 1623399437490 536875814]
   [677 :create/user 3 536875814]
-  [677 :edit/time 1623399665949 536875874]
+  [677 :edit/time 1623399697140 536875883]
   [677 :edit/user 3 536875814]
   [678 :block/open true 536875816]
   [678 :block/order 0 536875818]
@@ -4039,4 +4040,18 @@
   [678 :create/time 1623399468843 536875816]
   [678 :create/user 3 536875816]
   [678 :edit/time 1623399529244 536875828]
-  [678 :edit/user 3 536875816]]}
+  [678 :edit/user 3 536875816]
+  [679 :block/open true 536875884]
+  [679 :block/order 2 536875884]
+  [679 :block/page 647 536875885]
+  [679 :block/parents 332 536875885]
+  [679 :block/parents 647 536875885]
+  [679 :block/parents 662 536875885]
+  [679 :block/parents 674 536875885]
+  [679 :block/parents 676 536875885]
+  [679 :block/string "" 536875884]
+  [679 :block/uid "e_aCQVWIg" 536875884]
+  [679 :create/time 1623399697798 536875884]
+  [679 :create/user 3 536875884]
+  [679 :edit/time 1623399697798 536875884]
+  [679 :edit/user 3 536875884]]}
