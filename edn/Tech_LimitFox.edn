@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuid390cac37-3015-4825-85ce-fe2beac5457f"
-   536875351]
+   "uuide30b44c6-6f6b-4bb9-bc9b-e78f8752816b"
+   536875360]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -3147,11 +3147,11 @@
   [563 :block/parents 331 536874979]
   [563 :block/parents 387 536874979]
   [563 :block/parents 542 536874979]
-  [563 :block/string "" 536874978]
+  [563 :block/string "$$\\because $$" 536875360]
   [563 :block/uid "K4Pk0bS9C" 536874978]
   [563 :create/time 1623297794955 536874978]
   [563 :create/user 3 536874978]
-  [563 :edit/time 1623297794955 536874978]
+  [563 :edit/time 1623391991107 536875360]
   [563 :edit/user 3 536874978]
   [565 :block/open true 536874997]
   [565 :block/order 1 536875010]
@@ -3459,9 +3459,9 @@
   [612 :block/page 567 536875342]
   [612 :block/parents 567 536875342]
   [612 :block/parents 608 536875342]
-  [612 :block/string "12:17 吃饭" 536875351]
+  [612 :block/string "12:17 - 13:15 吃饭" 536875354]
   [612 :block/uid "y61fS--UF" 536875341]
   [612 :create/time 1623385054742 536875341]
   [612 :create/user 3 536875341]
-  [612 :edit/time 1623385091118 536875351]
+  [612 :edit/time 1623390697068 536875354]
   [612 :edit/user 3 536875341]]}
