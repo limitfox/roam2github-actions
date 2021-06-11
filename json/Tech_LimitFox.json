@@ -4182,6 +4182,76 @@
             ":edit/user": {
               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
             }
+          },
+          {
+            "string": "微分是什么？",
+            "create-time": 1623403111733,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "edit-time": 1623403221603,
+                "children": [
+                  {
+                    "string": "放大了给他们，其实依然",
+                    "create-time": 1623403166711,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "$$\\lim _{\\Delta x \\rightarrow 0} d y=0, \\lim _{\\Delta x \\rightarrow 0} d x=0$$",
+                        "create-time": 1623403184065,
+                        "uid": "cOnAqNM64",
+                        "edit-time": 1623403205084,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "EcKgAr9I5",
+                    "edit-time": 1623403184045,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "C9-uYtDJK",
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2F8f_CnF3Riv.png?alt=media&token=8a296994-0668-4d17-bb1f-e4895c84103e)",
+                ":block/props": {
+                  ":image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2F8f_CnF3Riv.png?alt=media&token=8a296994-0668-4d17-bb1f-e4895c84103e": {
+                      ":width": 360,
+                      ":height": null
+                    }
+                  }
+                },
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "create-time": 1623403206461,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2F8f_CnF3Riv.png?alt=media&token=8a296994-0668-4d17-bb1f-e4895c84103e": {
+                      "width": 360,
+                      "height": null
+                    }
+                  }
+                }
+              }
+            ],
+            "uid": "zuVMXgzOA",
+            "edit-time": 1623403123017,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
           }
         ],
         "uid": "QhGXqBOs4",
@@ -4192,6 +4262,194 @@
       {
         "string": "定积分",
         "create-time": 1622668470000,
+        "children": [
+          {
+            "edit-time": 1623403336706,
+            "children": [
+              {
+                "string": "当 $$ \\lVert \\Delta x  \\rVert \\to 0 $$ 时，总和 S 总是趋于确定的极限 I，则称极限 I 为函数 $$f(x)$$ 在曲线 [a,b] 上的定积分。",
+                "create-time": 1623403343307,
+                "uid": "cChbL2T96",
+                "edit-time": 1623403750650,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "90OmaTnWb",
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2Fv4me8D7oNg.png?alt=media&token=a9b706ad-4ff0-48cc-90a6-b8db9700354a)",
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2Fv4me8D7oNg.png?alt=media&token=a9b706ad-4ff0-48cc-90a6-b8db9700354a": {
+                  ":width": 394,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "create-time": 1623403333027,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2Fv4me8D7oNg.png?alt=media&token=a9b706ad-4ff0-48cc-90a6-b8db9700354a": {
+                  "width": 394,
+                  "height": null
+                }
+              }
+            }
+          },
+          {
+            "string": "^^积分值和被积函数^^与^^积分曲线^^有关，与积分变量字母无关。",
+            "create-time": 1623403854318,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "$$\\int_{a}^{b} f(x) d x=\\int_{a}^{b} f(t) d t=\\int_{a}^{b} f(u) d u$$",
+                "create-time": 1623403857755,
+                "uid": "Z8j8LkB1o",
+                "edit-time": 1623403886873,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "zTH9GzwNd",
+            "edit-time": 1623403907360,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "当函数 $$f(x)$$ 在区间[a, b]上的定积分存在的时候，称 $$f(x)$$ 在区间 [a,b] 上可积",
+            "create-time": 1623403893957,
+            "uid": "JPoku31Zk",
+            "edit-time": 1623403972816,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "定积分的几何含义",
+            "create-time": 1623403974487,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "面积的正负值：",
+                "create-time": 1623404323452,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FQAInuUbEeS.png?alt=media&token=8a991fd1-4984-4e08-bafc-8fa25086f8f7)",
+                    "props": {
+                      "image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FQAInuUbEeS.png?alt=media&token=8a991fd1-4984-4e08-bafc-8fa25086f8f7": {
+                          "width": 310,
+                          "height": null
+                        }
+                      }
+                    },
+                    "create-time": 1623404436169,
+                    ":block/props": {
+                      ":image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FQAInuUbEeS.png?alt=media&token=8a991fd1-4984-4e08-bafc-8fa25086f8f7": {
+                          ":width": 310,
+                          ":height": null
+                        }
+                      }
+                    },
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "uid": "_gI5GWSc7",
+                    "edit-time": 1623404462146,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "代数和，上方为正，下方为负",
+                    "create-time": 1623404424751,
+                    "uid": "WSL90aEvJ",
+                    "edit-time": 1623404425667,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "$$\\begin{array}{ll} f(x)>0, & \\int_{a}^{b} f(x) d x=A \\\\ f(x)<0, & \\int_{a}^{b} f(x) d x=-A \\end{array}$$",
+                    "create-time": 1623404331398,
+                    "uid": "IGcDwd50D",
+                    "edit-time": 1623404399214,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "x3Kswef39",
+                "edit-time": 1623404331406,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "NrWgOTdMa",
+            "edit-time": 1623404323460,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "如何计算？",
+            "create-time": 1623404502223,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "种用定义计算定积分 $$\\int_{a}^{b} x^2 dx$$",
+                "create-time": 1623404513112,
+                "uid": "7WDfblatL",
+                "edit-time": 1623404554974,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "ad6mTgeXM",
+            "edit-time": 1623404513119,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          }
+        ],
         "uid": "1-xEhTV7s",
         ":create/user": {
           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
