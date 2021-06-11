@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuid9a75e116-04be-4800-a849-59a11fbf8a29"
-   536875224]
+   "uuidf32f6edd-0f74-487d-bd29-ae70f8ebd955"
+   536875234]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -3338,6 +3338,8 @@
   [593 :edit/time 1623381589412 536875215]
   [593 :edit/user 3 536875208]
   [594 :block/children 595 536875220]
+  [594 :block/children 596 536875225]
+  [594 :block/children 597 536875227]
   [594 :block/uid "MNPQAWDKc" 536875219]
   [594 :create/time 1623381709940 536875219]
   [594 :create/user 3 536875219]
@@ -3356,4 +3358,27 @@
   [595 :create/time 1623381712132 536875220]
   [595 :create/user 3 536875220]
   [595 :edit/time 1623381820111 536875224]
-  [595 :edit/user 3 536875220]]}
+  [595 :edit/user 3 536875220]
+  [596 :block/open true 536875225]
+  [596 :block/order 2 536875227]
+  [596 :block/page 594 536875226]
+  [596 :block/parents 594 536875226]
+  [596 :block/string "" 536875225]
+  [596 :block/uid "izKxGzY3f" 536875225]
+  [596 :create/time 1623381892335 536875225]
+  [596 :create/user 3 536875225]
+  [596 :edit/time 1623381892335 536875225]
+  [596 :edit/user 3 536875225]
+  [597 :block/open true 536875227]
+  [597 :block/order 1 536875227]
+  [597 :block/page 594 536875228]
+  [597 :block/parents 594 536875228]
+  [597
+   :block/string
+   "```css\nspan.rm-page-ref[data-tag] {    \n  background-color: #F4F4F4;    \n  color: black;    \n  padding: 3px 7px;    \n  line-height: 2em;    \n  border-right: solid 1px;    \n  border-bottom: solid 1px;    \n  border-radius: 10px;    \n  font-weight: 600;\n}\n\nspan.rm-page-ref[data-tag]::before{    \n  margin-right: 10px;    \n  content: '🌍';    \n  display: inline-block;    \n  width: 10px;    \n  border-radius: 40px;    \n  height: 10px;\n}\n\nspan.rm-page-ref[data-tag=\"Source\"]::before {    \n  content: '📚';    \n  display: inline-block;    \n  width: 10px;    \n  border-radius: 40px;    \n  height: 10px;    \n  margin-right: 10px;\n}\n\nspan.rm-page-ref[data-tag=\"Source\"] {    \n  background-color: #DDF4D6;    \n  color: #252422;    \n  padding: 3px 7px;    \n  line-height: 2em;    \n  border-radius: 10px;    \n  font-weight: 600;\n}```"
+   536875234]
+  [597 :block/uid "3Th-0R_Td" 536875227]
+  [597 :create/time 1623381894315 536875227]
+  [597 :create/user 3 536875227]
+  [597 :edit/time 1623381911639 536875234]
+  [597 :edit/user 3 536875227]]}
