@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuid14138a2a-d25c-4e51-89c4-001dce5241ed"
-   536875828]
+   "uuidc637d9fa-8534-4431-aeaa-8a36d797634a"
+   536875838]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -4016,11 +4016,11 @@
   [677 :block/parents 662 536875815]
   [677 :block/parents 674 536875815]
   [677 :block/parents 676 536875825]
-  [677 :block/string "" 536875814]
+  [677 :block/string "那么此时如果$$D_{u} f(x, y)$$ 要取得最大值" 536875838]
   [677 :block/uid "UV_LmMlav" 536875814]
   [677 :create/time 1623399437490 536875814]
   [677 :create/user 3 536875814]
-  [677 :edit/time 1623399437490 536875814]
+  [677 :edit/time 1623399576564 536875838]
   [677 :edit/user 3 536875814]
   [678 :block/open true 536875816]
   [678 :block/order 0 536875818]
