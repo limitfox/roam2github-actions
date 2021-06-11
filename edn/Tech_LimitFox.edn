@@ -70,8 +70,8 @@
   [2 :version/id "0.8.5" 536870914]
   [2
    :version/nonce
-   "uuid52f1878a-0cc0-4e23-aa86-60fa7297b646"
-   536875821]
+   "uuid14138a2a-d25c-4e51-89c4-001dce5241ed"
+   536875828]
   [3 :block/uid "q7LTnR_X6" 536870915]
   [3
    :user/settings
@@ -3804,7 +3804,6 @@
   [660 :edit/time 1623396448026 536875678]
   [660 :edit/user 3 536875674]
   [662 :block/children 676 536875802]
-  [662 :block/children 677 536875814]
   [662 :block/open true 536875681]
   [662 :block/order 1 536875796]
   [662 :block/page 647 536875682]
@@ -3991,6 +3990,7 @@
   [675 :create/user 3 536875789]
   [675 :edit/time 1623399371653 536875791]
   [675 :edit/user 3 536875789]
+  [676 :block/children 677 536875824]
   [676 :block/children 678 536875818]
   [676 :block/open true 536875800]
   [676 :block/order 0 536875802]
@@ -4015,6 +4015,7 @@
   [677 :block/parents 647 536875815]
   [677 :block/parents 662 536875815]
   [677 :block/parents 674 536875815]
+  [677 :block/parents 676 536875825]
   [677 :block/string "" 536875814]
   [677 :block/uid "UV_LmMlav" 536875814]
   [677 :create/time 1623399437490 536875814]
@@ -4029,10 +4030,10 @@
   [678 :block/parents 662 536875817]
   [678 :block/parents 674 536875817]
   [678 :block/parents 676 536875819]
-  [678 :block/refs 628 536875821]
-  [678 :block/string "((zfcDIHJoQ))" 536875820]
+  [678 :block/refs 636 536875823]
+  [678 :block/string "参考：((NpuKiSHv9))" 536875828]
   [678 :block/uid "kShfUCftx" 536875816]
   [678 :create/time 1623399468843 536875816]
   [678 :create/user 3 536875816]
-  [678 :edit/time 1623399470687 536875820]
+  [678 :edit/time 1623399529244 536875828]
   [678 :edit/user 3 536875816]]}
