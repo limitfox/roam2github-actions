@@ -264,52 +264,24 @@
             }
           },
           {
-            "string": "微积分",
+            "string": "[[微积分]]",
             "create-time": 1622668470000,
-            "children": [
+            ":block/refs": [
               {
-                "string": "微积分基本想法",
-                "create-time": 1622668470000,
-                "uid": "tsHZghbHW",
-                ":create/user": {
-                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                }
-              },
-              {
-                "string": "微积分的解释",
-                "create-time": 1622668470000,
-                "uid": "QhGXqBOs4",
-                ":create/user": {
-                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                }
-              },
-              {
-                "string": "定积分",
-                "create-time": 1622668470000,
-                "uid": "1-xEhTV7s",
-                ":create/user": {
-                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                }
-              },
-              {
-                "string": "定积分的性质",
-                "create-time": 1622668470000,
-                "uid": "1lVRq83Of",
-                ":create/user": {
-                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                }
-              },
-              {
-                "string": "牛顿莱布尼茨公式",
-                "create-time": 1622668470000,
-                "uid": "saQ1N71Aq",
-                ":create/user": {
-                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                }
+                ":block/uid": "3UoQh5ItG"
               }
             ],
-            "uid": "If7G4EjuF",
+            "refs": [
+              {
+                "uid": "3UoQh5ItG"
+              }
+            ],
             ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "uid": "If7G4EjuF",
+            "edit-time": 1623400572153,
+            ":edit/user": {
               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
             }
           },
@@ -844,6 +816,18 @@
             "create-time": 1623385054742,
             "uid": "y61fS--UF",
             "edit-time": 1623390697068,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "16:56 灵听3结构设计新尺寸评审",
+            "create-time": 1623401806001,
+            "uid": "hA1FWpGjl",
+            "edit-time": 1623401834978,
             ":create/user": {
               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
             },
@@ -3840,6 +3824,398 @@
     ],
     "uid": "f41TES6kO",
     "edit-time": 1623396150819,
+    ":edit/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    }
+  },
+  {
+    "create-time": 1623400572155,
+    "title": "微积分",
+    ":create/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    },
+    "children": [
+      {
+        "string": "微积分基本想法",
+        "create-time": 1622668470000,
+        "children": [
+          {
+            "string": "微积分诞生于17世纪，主要帮助人们解决各种速度，面积等实际问题",
+            "create-time": 1623400742841,
+            "uid": "v5i9Tx86x",
+            "edit-time": 1623400806373,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "如何求曲线的面积呢?",
+            "create-time": 1623400806768,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2Fvuxvg54lLx.png?alt=media&token=6e5b8420-157f-4357-9275-82316e2b5090)",
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2Fvuxvg54lLx.png?alt=media&token=6e5b8420-157f-4357-9275-82316e2b5090": {
+                      "width": 255,
+                      "height": null
+                    }
+                  }
+                },
+                "create-time": 1623400812720,
+                ":block/props": {
+                  ":image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2Fvuxvg54lLx.png?alt=media&token=6e5b8420-157f-4357-9275-82316e2b5090": {
+                      ":width": 255,
+                      ":height": null
+                    }
+                  }
+                },
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "uid": "m__ErC76C",
+                "edit-time": 1623400825827,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "以直代曲",
+                "create-time": 1623400827154,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "string": "对于矩形，我们可以轻松求得其面积，能否用矩形代替曲线形状呢?",
+                    "create-time": 1623400841458,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "children": [
+                      {
+                        "string": "应该用多少个矩形来代替呢?",
+                        "create-time": 1623400850717,
+                        "uid": "zbnAFQeRm",
+                        "edit-time": 1623400856642,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2F86DctNITdI.png?alt=media&token=50409a91-2471-4a2b-bcd4-3ba719e6add9)",
+                        "create-time": 1623400857995,
+                        "uid": "RqtXDkI3P",
+                        "edit-time": 1623400869715,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "VEmspk1Uj",
+                    "edit-time": 1623400849961,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "5hZvpNIyM",
+                "edit-time": 1623400841006,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "面积由来",
+                "create-time": 1623400871278,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "edit-time": 1623402350374,
+                    "children": [
+                      {
+                        "string": "在ab之间插入若干个点，这样就得到了n个小区间。",
+                        "create-time": 1623401121710,
+                        "uid": "NFQdDcm8h",
+                        "edit-time": 1623401132179,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "每一个小矩形面积为: $$A_i = f(\\xi_i)\\Delta x_i$$ 近似得到曲线面积：$$A \\approx \\sum_{i=1}^{n} f\\left(\\xi_{i}\\right) \\Delta x_{i}$$ 当分割无限加细，每个小区间的最大长度为 $$\\lambda$$，此时 $$\\lambda \\to 0$$",
+                        "create-time": 1623401132601,
+                        "uid": "NZKWbCYgf",
+                        "edit-time": 1623402236944,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "曲边面积：$$A=\\lim \\limits_{\\lambda \\rightarrow 0} \\sum_{i=1}^{n} f\\left(\\xi_{i}\\right) \\Delta x_{i}$$",
+                        "create-time": 1623402252206,
+                        "uid": "azEvkm9X_",
+                        "edit-time": 1623402314214,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "QAUsXZ_xX",
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2Fk119qubgsf.png?alt=media&token=ff3b0e75-70fe-4ad4-b377-f3bff98e624d)",
+                    ":block/props": {
+                      ":image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2Fk119qubgsf.png?alt=media&token=ff3b0e75-70fe-4ad4-b377-f3bff98e624d": {
+                          ":width": 261,
+                          ":height": null
+                        }
+                      }
+                    },
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "create-time": 1623402335298,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "props": {
+                      "image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2Fk119qubgsf.png?alt=media&token=ff3b0e75-70fe-4ad4-b377-f3bff98e624d": {
+                          "width": 261,
+                          "height": null
+                        }
+                      }
+                    }
+                  }
+                ],
+                "uid": "yx6m3adb4",
+                "edit-time": 1623401120672,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "从求和出发",
+                "create-time": 1623402453859,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "edit-time": 1623402633152,
+                    "children": [
+                      {
+                        "string": "我们需要尽可能的将每一个矩形的底边无穷小",
+                        "create-time": 1623402490320,
+                        "uid": "55Jm7FrMz",
+                        "edit-time": 1623402499811,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "莱布尼兹为了体现求和的感觉，给S拉长了，简写成$$\\int f(x) d x$$",
+                        "create-time": 1623402501592,
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "children": [
+                          {
+                            "string": "$$\\operatorname{Sum}(f(x) \\Delta x) \\Longrightarrow \\int_{u m} f(x) d x$$",
+                            "create-time": 1623402552073,
+                            "uid": "BsDmXWHrq",
+                            "edit-time": 1623402587899,
+                            ":create/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                            }
+                          }
+                        ],
+                        "uid": "q7PfmyFSA",
+                        "edit-time": 1623402570687,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "uid": "stxv0xbH2",
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2F63P1rD6h8f.png?alt=media&token=6507568e-07b8-4c1a-8f31-6ef946cbc191)",
+                    ":block/props": {
+                      ":image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2F63P1rD6h8f.png?alt=media&token=6507568e-07b8-4c1a-8f31-6ef946cbc191": {
+                          ":width": 313,
+                          ":height": null
+                        }
+                      }
+                    },
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "create-time": 1623402615362,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "props": {
+                      "image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2F63P1rD6h8f.png?alt=media&token=6507568e-07b8-4c1a-8f31-6ef946cbc191": {
+                          "width": 313,
+                          "height": null
+                        }
+                      }
+                    }
+                  }
+                ],
+                "uid": "W5hUUDjaG",
+                "edit-time": 1623402490324,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "liyRYMEQJ",
+            "edit-time": 1623400812249,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          }
+        ],
+        "uid": "tsHZghbHW",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "微积分的解释",
+        "create-time": 1622668470000,
+        "children": [
+          {
+            "string": "切线的解释",
+            "create-time": 1623402650101,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FmqR0rs-Lbe.png?alt=media&token=927d510a-9f7d-470e-939e-7d1ec30c9fe2)",
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FmqR0rs-Lbe.png?alt=media&token=927d510a-9f7d-470e-939e-7d1ec30c9fe2": {
+                      "width": 369,
+                      "height": null
+                    }
+                  }
+                },
+                "create-time": 1623402746254,
+                ":block/props": {
+                  ":image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTech_LimitFox%2FmqR0rs-Lbe.png?alt=media&token=927d510a-9f7d-470e-939e-7d1ec30c9fe2": {
+                      ":width": 369,
+                      ":height": null
+                    }
+                  }
+                },
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "uid": "q0szpeSEF",
+                "edit-time": 1623402749994,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "切线的斜率是什么?",
+                "create-time": 1623402655897,
+                "uid": "fEvbrOTRD",
+                "edit-time": 1623402693510,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "由于无穷小的概念，dx,dy都叫做微分。所谓微积分就是把这些微分积起来。",
+                "create-time": 1623402693915,
+                "uid": "PK-i9ktf2",
+                "edit-time": 1623402715022,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "hCoJAuffw",
+            "edit-time": 1623402655715,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          }
+        ],
+        "uid": "QhGXqBOs4",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "定积分",
+        "create-time": 1622668470000,
+        "uid": "1-xEhTV7s",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "定积分的性质",
+        "create-time": 1622668470000,
+        "uid": "1lVRq83Of",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "牛顿莱布尼茨公式",
+        "create-time": 1622668470000,
+        "uid": "saQ1N71Aq",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      }
+    ],
+    "uid": "3UoQh5ItG",
+    "edit-time": 1623400572156,
     ":edit/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     }
