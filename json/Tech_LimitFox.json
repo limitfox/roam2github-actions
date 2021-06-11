@@ -2584,7 +2584,7 @@
     },
     "children": [
       {
-        "edit-time": 1623378239755,
+        "edit-time": 1623384223939,
         "children": [
           {
             "string": "10:30 声加会议结束",
@@ -2675,8 +2675,18 @@
             }
           }
         ],
+        "refs": [
+          {
+            "uid": "xPozfMyi4"
+          }
+        ],
         "uid": "KNXnCgO5r",
-        "string": "#记录",
+        ":block/refs": [
+          {
+            ":block/uid": "xPozfMyi4"
+          }
+        ],
+        "string": "#[[记录]]",
         ":block/props": {
           ":diagram": {
             ":nodes": {
@@ -2848,48 +2858,28 @@
     },
     "children": [
       {
-        "string": "{{[[roam/js]]}}",
-        "refs": [
-          {
-            "uid": "6ULEa8nrc"
-          }
-        ],
+        "edit-time": 1623384458796,
         "children": [
           {
-            "string": "```javascript\nvar existing = document.getElementById(\"roamjs-roam42-main\");\nif (!existing) {\n  var extension = document.createElement(\"script\");\n  extension.src = \"https://roamjs.com/roam42/main.js\";\n  extension.id = \"roamjs-roam42-main\";\n  extension.async = true;\n  extension.type = \"text/javascript\";\n  document.getElementsByTagName(\"head\")[0].appendChild(extension);\n}\n```",
-            "uid": "pFGqAsYqJ",
-            "edit-time": 1623379485993,
-            ":edit/user": {
+            "string": "12:11 工牌WIFI 连接方案确认",
+            "create-time": 1623384720090,
+            ":create/user": {
               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-            }
-          }
-        ],
-        "uid": "Cob2_uHxz",
-        "edit-time": 1623379485993,
-        ":block/refs": [
-          {
-            ":block/uid": "6ULEa8nrc"
-          }
-        ],
-        ":edit/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1623379414947,
-        ":create/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        },
-        "children": [
-          {
-            "edit-time": 1623379901202,
+            },
             "children": [
               {
-                "string": "https://me.ursb.me/archives/roam-research.html",
-                "create-time": 1623378385747,
-                "uid": "0AklhYnq7",
-                "edit-time": 1623378935176,
+                "string": "先连到采集站，再上传对象存储。",
+                "uid": "Cob2_uHxz",
+                "edit-time": 1623384720095,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "华山平台如果提供直接接口，则使用TCP短连接自有协议",
+                "create-time": 1623384715508,
+                "uid": "oxGk5E04G",
+                "edit-time": 1623384746359,
                 ":create/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                 },
@@ -2898,55 +2888,123 @@
                 }
               }
             ],
-            "refs": [
-              {
-                "uid": "kNiHESBAi"
-              }
-            ],
-            "uid": "2biHaM9LZ",
-            ":block/refs": [
-              {
-                ":block/uid": "kNiHESBAi"
-              }
-            ],
-            "string": "#[[收集]]",
-            ":create/user": {
-              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-            },
-            "create-time": 1623378936699,
+            "uid": "RCr_mk17V",
+            "edit-time": 1623384720090,
             ":edit/user": {
               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
             }
           },
           {
-            "string": "todo",
-            "create-time": 1623379484505,
+            "string": "12:17 吃饭",
+            "create-time": 1623385054742,
+            "uid": "y61fS--UF",
+            "edit-time": 1623385091118,
             ":create/user": {
               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
             },
-            "children": [
-              {
-                "string": "How to Take Smart Notes",
-                "create-time": 1623381579245,
-                "uid": "Lx95T_zSb",
-                "edit-time": 1623381589412,
-                ":create/user": {
-                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                },
-                ":edit/user": {
-                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                }
-              }
-            ],
-            "uid": "F-7wuo5MM",
-            "edit-time": 1623381579253,
             ":edit/user": {
               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
             }
           }
         ],
-        "uid": "Mwn9WAhSS",
-        "edit-time": 1623379414947,
+        "refs": [
+          {
+            "uid": "xPozfMyi4"
+          }
+        ],
+        "uid": "AooF4B0-1",
+        ":block/refs": [
+          {
+            ":block/uid": "xPozfMyi4"
+          }
+        ],
+        "string": "#[[记录]]",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        "create-time": 1623384458796,
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "edit-time": 1623383912339,
+        "children": [
+          {
+            "string": "{{[[TODO]]}} 阅读《How to Take Smart Notes》",
+            "create-time": 1623381579245,
+            ":block/refs": [
+              {
+                ":block/uid": "H2Y_KDix2"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "H2Y_KDix2"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "uid": "Lx95T_zSb",
+            "edit-time": 1623384438306,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "edzw0hZ1B"
+          }
+        ],
+        "uid": "F-7wuo5MM",
+        ":block/refs": [
+          {
+            ":block/uid": "edzw0hZ1B"
+          }
+        ],
+        "string": "#todo",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        "create-time": 1623379484505,
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "edit-time": 1623379901202,
+        "children": [
+          {
+            "string": "https://me.ursb.me/archives/roam-research.html",
+            "create-time": 1623378385747,
+            "uid": "0AklhYnq7",
+            "edit-time": 1623378935176,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "kNiHESBAi"
+          }
+        ],
+        "uid": "2biHaM9LZ",
+        ":block/refs": [
+          {
+            ":block/uid": "kNiHESBAi"
+          }
+        ],
+        "string": "#[[收集]]",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        "create-time": 1623378936699,
         ":edit/user": {
           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
         }
@@ -2987,11 +3045,33 @@
   {
     "create-time": 1623379398719,
     "title": "roam/js",
-    "uid": "6ULEa8nrc",
-    "edit-time": 1623379398721,
     ":create/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     },
+    "children": [
+      {
+        "string": "```javascript\nvar existing = document.getElementById(\"roamjs-roam42-main\");\nif (!existing) {\n  var extension = document.createElement(\"script\");\n  extension.src = \"https://roamjs.com/roam42/main.js\";\n  extension.id = \"roamjs-roam42-main\";\n  extension.async = true;\n  extension.type = \"text/javascript\";\n  document.getElementsByTagName(\"head\")[0].appendChild(extension);\n}\n```",
+        "uid": "pFGqAsYqJ",
+        "edit-time": 1623379485993,
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1623383492519,
+        "uid": "Hu5cuRJVX",
+        "edit-time": 1623383492519,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      }
+    ],
+    "uid": "6ULEa8nrc",
+    "edit-time": 1623379398721,
     ":edit/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     }
@@ -3030,10 +3110,10 @@
     },
     "children": [
       {
-        "string": "```css\nspan.rm-page-ref[data-tag] {    \n  background-color: #F4F4F4;    \n  color: black;    \n  padding: 3px 7px;    \n  line-height: 2em;    \n  border-right: solid 1px;    \n  border-bottom: solid 1px;    \n  border-radius: 10px;    \n  font-weight: 600;\n}```",
-        "create-time": 1623381712132,
-        "uid": "urGo5A74y",
-        "edit-time": 1623381820111,
+        "string": "```css\nspan.rm-page-ref[data-tag] {    \n  background-color: #F4F4F4;    \n  color: black;    \n  padding: 3px 7px;    \n  line-height: 2em;    \n  border-right: solid 1px;    \n  border-bottom: solid 1px;    \n  border-radius: 10px;    \n  font-weight: 600;\n}\n\nspan.rm-page-ref[data-tag]::before{    \n  margin-right: 10px;    \n  content: '🌍';    \n  display: inline-block;    \n  width: 10px;    \n  border-radius: 40px;    \n  height: 10px;\n}\n\nspan.rm-page-ref[data-tag=\"收集\"]::before {    \n  content: '📚';    \n  display: inline-block;    \n  width: 10px;    \n  border-radius: 40px;    \n  height: 10px;    \n  margin-right: 10px;\n}\n\nspan.rm-page-ref[data-tag=\"收集\"] {    \n  background-color: #CDDC39;    \n  color: #FFFFFF;    \n  padding: 3px 7px;    \n  line-height: 2em;\n  border-radius: 10px;    \n  font-weight: 600;\n}```",
+        "create-time": 1623381894315,
+        "uid": "3Th-0R_Td",
+        "edit-time": 1623384157583,
         ":create/user": {
           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
         },
@@ -3042,10 +3122,22 @@
         }
       },
       {
-        "string": "```css\nspan.rm-page-ref[data-tag] {    \n  background-color: #F4F4F4;    \n  color: black;    \n  padding: 3px 7px;    \n  line-height: 2em;    \n  border-right: solid 1px;    \n  border-bottom: solid 1px;    \n  border-radius: 10px;    \n  font-weight: 600;\n}\n\nspan.rm-page-ref[data-tag]::before{    \n  margin-right: 10px;    \n  content: '🌍';    \n  display: inline-block;    \n  width: 10px;    \n  border-radius: 40px;    \n  height: 10px;\n}\n\nspan.rm-page-ref[data-tag=\"Source\"]::before {    \n  content: '📚';    \n  display: inline-block;    \n  width: 10px;    \n  border-radius: 40px;    \n  height: 10px;    \n  margin-right: 10px;\n}\n\nspan.rm-page-ref[data-tag=\"Source\"] {    \n  background-color: #DDF4D6;    \n  color: #252422;    \n  padding: 3px 7px;    \n  line-height: 2em;    \n  border-radius: 10px;    \n  font-weight: 600;\n}```",
-        "create-time": 1623381894315,
-        "uid": "3Th-0R_Td",
-        "edit-time": 1623381911639,
+        "string": "```css\nspan.rm-page-ref[data-tag=\"todo\"]::before {    \n  content: '✅';    \n  display: inline-block;    \n  width: 10px;    \n  border-radius: 40px;    \n  height: 10px;    \n  margin-right: 10px;\n}\n\nspan.rm-page-ref[data-tag=\"todo\"] {    \n  background-color: #03A9F4;    \n  color: #FFFFFF;    \n  padding: 3px 7px;    \n  line-height: 2em;\n  border-radius: 10px;    \n  font-weight: 600;\n}```",
+        "create-time": 1623381712132,
+        "uid": "urGo5A74y",
+        "edit-time": 1623384604203,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": "```css\nspan.rm-page-ref[data-tag=\"记录\"]::before {    \n  content: '✍🏻';    \n  display: inline-block;    \n  width: 10px;    \n  border-radius: 40px;    \n  height: 10px;    \n  margin-right: 10px;\n}\n\nspan.rm-page-ref[data-tag=\"记录\"] {    \n  background-color: #FF5722;    \n  color: #FFFFFF;    \n  padding: 3px 7px;    \n  line-height: 2em;\n  border-radius: 10px;    \n  font-weight: 600;\n}```",
+        "create-time": 1623384319036,
+        "uid": "jHpJNfNFC",
+        "edit-time": 1623384563775,
         ":create/user": {
           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
         },
@@ -3055,9 +3147,9 @@
       },
       {
         "string": "",
-        "create-time": 1623381892335,
-        "uid": "izKxGzY3f",
-        "edit-time": 1623381892335,
+        "create-time": 1623384310040,
+        "uid": "2OJORf-yi",
+        "edit-time": 1623384310040,
         ":create/user": {
           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
         },
@@ -3068,6 +3160,42 @@
     ],
     "uid": "MNPQAWDKc",
     "edit-time": 1623381720588,
+    ":edit/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    }
+  },
+  {
+    "create-time": 1623383912342,
+    "title": "todo",
+    "uid": "edzw0hZ1B",
+    "edit-time": 1623383912343,
+    ":create/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    },
+    ":edit/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    }
+  },
+  {
+    "create-time": 1623384219311,
+    "title": "记录",
+    "uid": "xPozfMyi4",
+    "edit-time": 1623384219313,
+    ":create/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    },
+    ":edit/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    }
+  },
+  {
+    "create-time": 1623384427322,
+    "title": "TODO",
+    "uid": "H2Y_KDix2",
+    "edit-time": 1623384427323,
+    ":create/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    },
     ":edit/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     }
