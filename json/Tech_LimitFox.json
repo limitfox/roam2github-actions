@@ -998,32 +998,6 @@
     }
   },
   {
-    "create-time": 1623377838162,
-    "title": "#记录",
-    ":create/user": {
-      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-    },
-    "children": [
-      {
-        "string": "",
-        "create-time": 1623378207069,
-        "uid": "bgwuxqYko",
-        "edit-time": 1623378207069,
-        ":create/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        },
-        ":edit/user": {
-          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-        }
-      }
-    ],
-    "uid": "cogcw9U7e",
-    "edit-time": 1623377838163,
-    ":edit/user": {
-      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-    }
-  },
-  {
     "create-time": 1623379398719,
     "title": "roam/js",
     ":create/user": {
@@ -4547,11 +4521,49 @@
   {
     "create-time": 1623427233431,
     "title": "June 12th, 2021",
-    "uid": "06-12-2021",
-    "edit-time": 1623427233431,
     ":create/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     },
+    "children": [
+      {
+        "edit-time": 1623458908058,
+        "children": [
+          {
+            "string": "08:46 正式起床",
+            "create-time": 1623458806695,
+            "uid": "4y8R_tXqd",
+            "edit-time": 1623458831142,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "xPozfMyi4"
+          }
+        ],
+        "uid": "hkIwnvPI6",
+        ":block/refs": [
+          {
+            ":block/uid": "xPozfMyi4"
+          }
+        ],
+        "string": "#[[记录]]",
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        "create-time": 1623458885049,
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      }
+    ],
+    "uid": "06-12-2021",
+    "edit-time": 1623427233431,
     ":edit/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     }
