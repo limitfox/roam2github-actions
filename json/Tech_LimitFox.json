@@ -4603,753 +4603,661 @@
         "edit-time": 1623482739264,
         "children": [
           {
-            "string": "认知思维16讲",
-            "create-time": 1623483278502,
-            ":create/user": {
-              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-            },
+            "edit-time": 1623504005070,
             "children": [
               {
-                "string": " 想法改变现实，想法和现实哪个重要？",
-                "create-time": 1623482739247,
-                "heading": 1,
-                ":create/user": {
-                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                },
+                "edit-time": 1623504173149,
                 "children": [
                   {
-                    "string": "想法可以改变现实",
-                    "create-time": 1623483186208,
-                    "heading": 2,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
+                    "edit-time": 1623504188498,
                     "children": [
                       {
-                        "string": "想法可以改变现实：股票涨跌过程中，你的购买也会影响股票的涨跌。",
-                        "create-time": 1623483186208,
+                        "string": "((XQrJH5Z95))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "XQrJH5Z95"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "XQrJH5Z95"
+                          }
+                        ],
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
-                        "children": [
-                          {
-                            "string": "这是一种自我实现的预言",
-                            "create-time": 1623483186208,
-                            "uid": "ArMBGtPYB",
-                            "edit-time": 1623483186219,
-                            ":create/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            }
-                          }
-                        ],
-                        "uid": "0FTRigPTU",
-                        "edit-time": 1623483186219,
+                        "uid": "cPCNqr4vM",
+                        "edit-time": 1623504188498,
                         ":edit/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         }
                       },
                       {
-                        "string": "想改改变现实的核心: 行动",
-                        "create-time": 1623483186208,
+                        "string": "((cOuYKoClH))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "cOuYKoClH"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "cOuYKoClH"
+                          }
+                        ],
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
+                        "uid": "8dE2hBsKT",
+                        "edit-time": 1623504188498,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "zVxiXrTVQ"
+                      }
+                    ],
+                    "uid": "Kde9_UBuo",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "zVxiXrTVQ"
+                      }
+                    ],
+                    "string": "((zVxiXrTVQ))",
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "create-time": 1623504188498,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "((o2AFdE-Nc))",
+                    "create-time": 1623504188498,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "o2AFdE-Nc"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "o2AFdE-Nc"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "uid": "CveyIp6-v",
+                    "edit-time": 1623504188498,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "edit-time": 1623504188498,
+                    "children": [
+                      {
+                        "edit-time": 1623504188498,
                         "children": [
                           {
-                            "string": "想法是通过行动改变了现实",
-                            "create-time": 1623483186208,
-                            "uid": "1wVCq0-P8",
-                            "edit-time": 1623483186219,
+                            "string": "((XcrE63PHy))",
+                            "create-time": 1623504188498,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "XcrE63PHy"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "XcrE63PHy"
+                              }
+                            ],
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },
+                            "uid": "OqxNp67xr",
+                            "edit-time": 1623504188498,
                             ":edit/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             }
                           }
                         ],
-                        "uid": "GAsLB58Pa",
-                        "edit-time": 1623483186219,
+                        "refs": [
+                          {
+                            "uid": "2bRYypq70"
+                          }
+                        ],
+                        "uid": "dph3vzrAw",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "2bRYypq70"
+                          }
+                        ],
+                        "string": "((2bRYypq70))",
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "create-time": 1623504188498,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "g7qT_tn7C"
+                      }
+                    ],
+                    "uid": "p5LBm-T4F",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "g7qT_tn7C"
+                      }
+                    ],
+                    "string": "((g7qT_tn7C))",
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "create-time": 1623504188498,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "edit-time": 1623504188498,
+                    "children": [
+                      {
+                        "string": "((QfArRBw-p))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "QfArRBw-p"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "QfArRBw-p"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "uid": "Ps1ldNkbu",
+                        "edit-time": 1623504188498,
                         ":edit/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         }
                       },
                       {
-                        "string": "每个人都在通过行动创造现实：想法→行动 →现实",
-                        "create-time": 1623483186208,
-                        "uid": "xmDOJyQhR",
-                        "edit-time": 1623483186219,
+                        "string": "((W7GdAcUgm))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "W7GdAcUgm"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "W7GdAcUgm"
+                          }
+                        ],
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
+                        "uid": "oZJ72CuU_",
+                        "edit-time": 1623504188498,
                         ":edit/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         }
                       }
                     ],
-                    "uid": "nXPNQEkgd",
-                    "edit-time": 1623483186219,
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  },
-                  {
-                    "string": "向下的螺旋",
-                    "create-time": 1623483186208,
-                    "heading": 2,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    "children": [
+                    "refs": [
                       {
-                        "string": "认为自己失败 -> 产生抑郁情绪 -> 无力感、失去兴趣、精力减退 -> 无力完成本来能完成的事 -> 认为自己失败",
-                        "create-time": 1623483186208,
-                        "uid": "8Krci_s2W",
-                        "edit-time": 1623483186219,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
+                        "uid": "gsAvXAv3G"
                       }
                     ],
-                    "uid": "P9gU6kuMz",
-                    "edit-time": 1623483186219,
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  },
-                  {
-                    "string": "![Image.png](https://res.craft.do/user/full/4477412d-cb3e-f50e-3e41-7c7871faf3d3/doc/DF677BFC-9D30-4CE2-827C-04B8E4E1B103/7F3EC0E7-1FF8-429A-9BA6-6179E0CFD807_2/Image.png)",
-                    "create-time": 1623483186208,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    "children": [
+                    "uid": "eZfbxzuzb",
+                    ":block/refs": [
                       {
-                        "string": "一但开启就停不下来",
-                        "create-time": 1623483186208,
-                        "uid": "RjQtBApMK",
-                        "edit-time": 1623483186219,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
+                        ":block/uid": "gsAvXAv3G"
                       }
                     ],
-                    "uid": "rrbkkC7ct",
-                    "edit-time": 1623483186219,
+                    "string": "((gsAvXAv3G))",
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "create-time": 1623504188498,
                     ":edit/user": {
                       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                     }
                   },
                   {
-                    "string": "三个变量（认知三角形）",
-                    "create-time": 1623483186208,
-                    "heading": 2,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
+                    "edit-time": 1623504188498,
                     "children": [
                       {
-                        "string": "认知 -> 情绪 -> 行为",
-                        "create-time": 1623483186208,
-                        "uid": "pEdolgrmj",
-                        "edit-time": 1623483186219,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      }
-                    ],
-                    "uid": "A_v5sVPPz",
-                    "edit-time": 1623483186219,
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  },
-                  {
-                    "string": "![Image.png](https://res.craft.do/user/full/4477412d-cb3e-f50e-3e41-7c7871faf3d3/doc/DF677BFC-9D30-4CE2-827C-04B8E4E1B103/B5FCB35D-ED78-40F7-BCAE-7AD3559267CD_2/Image.png)",
-                    "create-time": 1623483186208,
-                    "uid": "Bt2cRwnbD",
-                    "edit-time": 1623483186219,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  },
-                  {
-                    "string": "事实本就如此？",
-                    "create-time": 1623483186208,
-                    "heading": 2,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    "children": [
-                      {
-                        "string": "事实会根据你的想法变化，变化的过程就是想法 → 情绪 → 行为三角的交替过程。",
-                        "create-time": 1623483186208,
-                        "uid": "UgFcqDnmP",
-                        "edit-time": 1623483186219,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      }
-                    ],
-                    "uid": "R_-JCAblu",
-                    "edit-time": 1623483186219,
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  },
-                  {
-                    "string": "情绪上干劲十足，行动上积极进取很容易做到？",
-                    "create-time": 1623483186208,
-                    "heading": 2,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    "children": [
-                      {
-                        "string": "先看到规律、研究它、改变它。",
-                        "create-time": 1623483186208,
-                        "uid": "XOSk21jre",
-                        "edit-time": 1623483186219,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      },
-                      {
-                        "string": "改变的第一步： 是注意自己的这些想法",
-                        "create-time": 1623483186208,
-                        "uid": "c-0zVOkx0",
-                        "edit-time": 1623483186219,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      }
-                    ],
-                    "uid": "Ir1AvkUe7",
-                    "edit-time": 1623483186219,
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  },
-                  {
-                    "string": " 练习",
-                    "create-time": 1623483472720,
-                    "heading": 2,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    "children": [
-                      {
-                        "string": "我是谁？ →定位参照系",
-                        "create-time": 1623483186208,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
+                        "edit-time": 1623504188498,
                         "children": [
                           {
-                            "string": "几个方面",
-                            "create-time": 1623483186208,
-                            "uid": "2y2EmNEON",
-                            "edit-time": 1623483186219,
+                            "string": "((yLAj1bDAn))",
+                            "create-time": 1623504188498,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "yLAj1bDAn"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "yLAj1bDAn"
+                              }
+                            ],
                             ":create/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             },
-                            ":edit/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            }
-                          },
-                          {
-                            "string": "独特性，不是姓名。不是岗位",
-                            "create-time": 1623483186208,
-                            "uid": "-drJHYuPm",
-                            "edit-time": 1623483186219,
-                            ":create/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            }
-                          },
-                          {
-                            "string": "兴趣：天才、改变世界？",
-                            "create-time": 1623483186208,
-                            "uid": "9RFZAQLD1",
-                            "edit-time": 1623483186219,
-                            ":create/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            }
-                          },
-                          {
-                            "string": "情绪：屌丝，无用幽默 严肃，有价值",
-                            "create-time": 1623483186208,
-                            "uid": "OOVrVUUxF",
-                            "edit-time": 1623483186219,
-                            ":create/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            }
-                          },
-                          {
-                            "string": "自我身份认同：根自我有关的印象 。",
-                            "create-time": 1623483186208,
-                            "uid": "aBJJOVUdF",
-                            "edit-time": 1623483186219,
-                            ":create/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            },
+                            "uid": "u8wkFu3wo",
+                            "edit-time": 1623504188498,
                             ":edit/user": {
                               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                             }
                           }
                         ],
-                        "uid": "tpCfe9i-L",
-                        "edit-time": 1623483186219,
+                        "refs": [
+                          {
+                            "uid": "gQsGfUWsV"
+                          }
+                        ],
+                        "uid": "OgzTo8PVl",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "gQsGfUWsV"
+                          }
+                        ],
+                        "string": "((gQsGfUWsV))",
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "create-time": 1623504188498,
                         ":edit/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         }
                       },
                       {
-                        "string": "我从哪里来？",
-                        "create-time": 1623483186208,
+                        "string": "((ZPJ-sVkI2))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "ZPJ-sVkI2"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "ZPJ-sVkI2"
+                          }
+                        ],
                         ":create/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         },
-                        "children": [
-                          {
-                            "string": "过去影响你的部分：经验",
-                            "create-time": 1623483186208,
-                            "uid": "7RIEL__-J",
-                            "edit-time": 1623483186219,
-                            ":create/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            }
-                          }
-                        ],
-                        "uid": "sQ6jQhzal",
-                        "edit-time": 1623483186219,
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      },
-                      {
-                        "string": "我来干什么？",
-                        "create-time": 1623483186208,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        "children": [
-                          {
-                            "string": "享乐：受苦？做一番事业？ 寻找意义",
-                            "create-time": 1623483186208,
-                            "uid": "bEZabQFUK",
-                            "edit-time": 1623483601106,
-                            ":create/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            }
-                          }
-                        ],
-                        "uid": "ma9xyzWgw",
-                        "edit-time": 1623483186219,
+                        "uid": "YhweJRdVY",
+                        "edit-time": 1623504188498,
                         ":edit/user": {
                           ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                         }
                       }
                     ],
-                    "uid": "q6gFNyo6A",
-                    "edit-time": 1623483488866,
+                    "refs": [
+                      {
+                        "uid": "1EaK9m-dg"
+                      }
+                    ],
+                    "uid": "b4ejeVWpG",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "1EaK9m-dg"
+                      }
+                    ],
+                    "string": "((1EaK9m-dg))",
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "create-time": 1623504188498,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "edit-time": 1623504188498,
+                    "children": [
+                      {
+                        "string": "((_hsJV0oOs))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "_hsJV0oOs"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "_hsJV0oOs"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "uid": "Q_N3MkqR_",
+                        "edit-time": 1623504188498,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "((iqZHiTbwu))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "iqZHiTbwu"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "iqZHiTbwu"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "uid": "UDAEupQu3",
+                        "edit-time": 1623504188498,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "((yL2qTV45s))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "yL2qTV45s"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "yL2qTV45s"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "uid": "YDJuoh1gH",
+                        "edit-time": 1623504188498,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ppxryWEE-"
+                      }
+                    ],
+                    "uid": "MJu2EQ8bW",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ppxryWEE-"
+                      }
+                    ],
+                    "string": "((ppxryWEE-))",
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "create-time": 1623504188498,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "edit-time": 1623504188498,
+                    "children": [
+                      {
+                        "string": "((8XH4GJkam))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8XH4GJkam"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8XH4GJkam"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "uid": "W3VlNZ1O9",
+                        "edit-time": 1623504188498,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "((DSlX8Aljg))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "DSlX8Aljg"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "DSlX8Aljg"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "uid": "mNwXSASJj",
+                        "edit-time": 1623504188498,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "((vWpViNrn_))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "vWpViNrn_"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "vWpViNrn_"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "uid": "JPvUR00Z7",
+                        "edit-time": 1623504188498,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "Kx8yGtnUW"
+                      }
+                    ],
+                    "uid": "8fDWC0t5p",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Kx8yGtnUW"
+                      }
+                    ],
+                    "string": "((Kx8yGtnUW))",
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "create-time": 1623504188498,
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "edit-time": 1623504188498,
+                    "children": [
+                      {
+                        "string": "((J8l_UR_2e))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "J8l_UR_2e"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "J8l_UR_2e"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "uid": "SShZPl-23",
+                        "edit-time": 1623504188498,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "((xGEl6QHSL))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "xGEl6QHSL"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "xGEl6QHSL"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "uid": "4gi0LvZCK",
+                        "edit-time": 1623504188498,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      },
+                      {
+                        "string": "((uNuBWGDdc))",
+                        "create-time": 1623504188498,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uNuBWGDdc"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "uNuBWGDdc"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        },
+                        "uid": "nfxZrqsAP",
+                        "edit-time": 1623504188498,
+                        ":edit/user": {
+                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "nmXJ7iPgA"
+                      }
+                    ],
+                    "uid": "tMO2WLyqi",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "nmXJ7iPgA"
+                      }
+                    ],
+                    "string": "((nmXJ7iPgA))",
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    "create-time": 1623504188498,
                     ":edit/user": {
                       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                     }
                   }
                 ],
-                "uid": "GZzlsFfn0",
-                "edit-time": 1623483353727,
+                "refs": [
+                  {
+                    "uid": "2FsQ0gIKU"
+                  }
+                ],
+                "uid": "Wm-A3alks",
+                ":block/refs": [
+                  {
+                    ":block/uid": "2FsQ0gIKU"
+                  }
+                ],
+                "string": "((2FsQ0gIKU))",
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "create-time": 1623504087323,
                 ":edit/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                 }
               },
               {
-                "string": " 如何把没办法变成有办法",
-                "create-time": 1623483602838,
-                "heading": 2,
+                "string": "((GZzlsFfn0))",
+                "create-time": 1623504098779,
+                ":block/refs": [
+                  {
+                    ":block/uid": "GZzlsFfn0"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "GZzlsFfn0"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                 },
-                "children": [
-                  {
-                    "string": "每个人的头脑中，总有一个没办法",
-                    "create-time": 1623483736012,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    "children": [
-                      {
-                        "string": "做不到",
-                        "create-time": 1623483736012,
-                        "uid": "XQrJH5Z95",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      },
-                      {
-                        "string": "新的挑战",
-                        "create-time": 1623483736012,
-                        "uid": "cOuYKoClH",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      }
-                    ],
-                    "uid": "zVxiXrTVQ",
-                    "edit-time": 1623483736024,
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  },
-                  {
-                    "string": "头脑里的墙",
-                    "create-time": 1623483736012,
-                    "uid": "o2AFdE-Nc",
-                    "edit-time": 1623483736024,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  },
-                  {
-                    "string": "![Image.png](https://res.craft.do/user/full/4477412d-cb3e-f50e-3e41-7c7871faf3d3/doc/DF677BFC-9D30-4CE2-827C-04B8E4E1B103/FAC98229-1D42-465B-966D-F7A757A7E610_2/Image.png)",
-                    "create-time": 1623483736012,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    "children": [
-                      {
-                        "string": "应对方法",
-                        "create-time": 1623483736012,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        "children": [
-                          {
-                            "string": "思维工具：想法只是想法",
-                            "create-time": 1623483736012,
-                            "uid": "XcrE63PHy",
-                            "edit-time": 1623483736024,
-                            ":create/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            }
-                          }
-                        ],
-                        "uid": "2bRYypq70",
-                        "edit-time": 1623483736024,
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      }
-                    ],
-                    "uid": "g7qT_tn7C",
-                    "edit-time": 1623483736024,
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  },
-                  {
-                    "string": "问题来源 -- 自动化思维：头脑中随时随地会产­生的想法",
-                    "create-time": 1623483736012,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    "children": [
-                      {
-                        "string": "快",
-                        "create-time": 1623483736012,
-                        "uid": "QfArRBw-p",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      },
-                      {
-                        "string": "跳过所有路径，不自觉的判断结果",
-                        "create-time": 1623483736012,
-                        "uid": "W7GdAcUgm",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      }
-                    ],
-                    "uid": "gsAvXAv3G",
-                    "edit-time": 1623483736024,
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  },
-                  {
-                    "string": "慢系统 和 快系统",
-                    "create-time": 1623483736012,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    "children": [
-                      {
-                        "string": "快系统： 遇到危险时，先使用快系统判断",
-                        "create-time": 1623483736012,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        "children": [
-                          {
-                            "string": "晚上看到一条绳子 -- 像蛇，先躲开，再判断是什么。",
-                            "create-time": 1623483736012,
-                            "uid": "yLAj1bDAn",
-                            "edit-time": 1623483736024,
-                            ":create/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                            }
-                          }
-                        ],
-                        "uid": "gQsGfUWsV",
-                        "edit-time": 1623483736024,
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      },
-                      {
-                        "string": "慢系统： 理性决策",
-                        "create-time": 1623483736012,
-                        "uid": "ZPJ-sVkI2",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      }
-                    ],
-                    "uid": "1EaK9m-dg",
-                    "edit-time": 1623483736024,
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  },
-                  {
-                    "string": "把“没办法”变成“有办法”的解决方法",
-                    "create-time": 1623483736012,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    "children": [
-                      {
-                        "string": "对快系统说：慢一点，你给我的只是一个想法，不一定是真的。",
-                        "create-time": 1623483736012,
-                        "uid": "_hsJV0oOs",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      },
-                      {
-                        "string": "不要理会快系统发出的声音，就可以多坚持一会儿",
-                        "create-time": 1623483736012,
-                        "uid": "iqZHiTbwu",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      },
-                      {
-                        "string": "我们要的是接近事实真象的部分，这种情况下，很多原来认为不可能的，现在也可以变得有迹可循。",
-                        "create-time": 1623483736012,
-                        "uid": "yL2qTV45s",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      }
-                    ],
-                    "uid": "ppxryWEE-",
-                    "edit-time": 1623483736024,
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  },
-                  {
-                    "string": "练习：",
-                    "create-time": 1623483736012,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    "children": [
-                      {
-                        "string": "与自动化声音共处",
-                        "create-time": 1623483736012,
-                        "uid": "8XH4GJkam",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      },
-                      {
-                        "string": "① 想象最近最困难的事情， 最困难的那个点。很聚焦的一个点。",
-                        "create-time": 1623483736012,
-                        "uid": "DSlX8Aljg",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      },
-                      {
-                        "string": "② 把这个声音记下来： 做不到，开不了口，胜任不了 。",
-                        "create-time": 1623483736012,
-                        "uid": "vWpViNrn_",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      }
-                    ],
-                    "uid": "Kx8yGtnUW",
-                    "edit-time": 1623483736024,
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  },
-                  {
-                    "string": "试着对自己反复说这句话 ：",
-                    "create-time": 1623483736012,
-                    ":create/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    },
-                    "children": [
-                      {
-                        "string": "每重复一次都告诉自己，这只是一­个声音。不管你有多相信这是一个 事实，只管重复。",
-                        "create-time": 1623483736012,
-                        "uid": "J8l_UR_2e",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      },
-                      {
-                        "string": "把这个声音变成一个背景音乐，带­着它去做想做的事情 。",
-                        "create-time": 1623483736012,
-                        "uid": "xGEl6QHSL",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      },
-                      {
-                        "string": "很多事我们都能故到，唯一的阻力只是我们自己的想法。",
-                        "create-time": 1623483736012,
-                        "uid": "uNuBWGDdc",
-                        "edit-time": 1623483736024,
-                        ":create/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                        }
-                      }
-                    ],
-                    "uid": "nmXJ7iPgA",
-                    "edit-time": 1623483736024,
-                    ":edit/user": {
-                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
-                    }
-                  }
-                ],
-                "uid": "tP933vih1",
-                "edit-time": 1623483729773,
+                "uid": "hklG28em5",
+                "edit-time": 1623504316555,
                 ":edit/user": {
                   ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
                 }
               }
             ],
+            "refs": [
+              {
+                "uid": "-N7Kcv9PG"
+              }
+            ],
             "uid": "U0v0ehe7a",
-            "edit-time": 1623483292453,
+            ":block/refs": [
+              {
+                ":block/uid": "-N7Kcv9PG"
+              }
+            ],
+            "string": "[[认知思维16讲]]",
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "create-time": 1623483278502,
             ":edit/user": {
               ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
             }
@@ -5530,6 +5438,758 @@
     ":create/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     },
+    ":edit/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    }
+  },
+  {
+    "create-time": 1623504005071,
+    "title": "认知思维16讲",
+    ":create/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    },
+    "children": [
+      {
+        "string": "如何把没办法变成有办法？",
+        "create-time": 1623504008198,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        "children": [
+          {
+            "string": "每个人的头脑中，总有一个没办法",
+            "create-time": 1623483736012,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "做不到",
+                "create-time": 1623483736012,
+                "uid": "XQrJH5Z95",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "新的挑战",
+                "create-time": 1623483736012,
+                "uid": "cOuYKoClH",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "zVxiXrTVQ",
+            "edit-time": 1623483736024,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "头脑里的墙",
+            "create-time": 1623483736012,
+            "uid": "o2AFdE-Nc",
+            "edit-time": 1623483736024,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "![Image.png](https://res.craft.do/user/full/4477412d-cb3e-f50e-3e41-7c7871faf3d3/doc/DF677BFC-9D30-4CE2-827C-04B8E4E1B103/FAC98229-1D42-465B-966D-F7A757A7E610_2/Image.png)",
+            "create-time": 1623483736012,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "应对方法",
+                "create-time": 1623483736012,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "string": "思维工具：想法只是想法",
+                    "create-time": 1623483736012,
+                    "uid": "XcrE63PHy",
+                    "edit-time": 1623483736024,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "2bRYypq70",
+                "edit-time": 1623483736024,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "g7qT_tn7C",
+            "edit-time": 1623483736024,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "问题来源 -- 自动化思维：头脑中随时随地会产­生的想法",
+            "create-time": 1623483736012,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "快",
+                "create-time": 1623483736012,
+                "uid": "QfArRBw-p",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "跳过所有路径，不自觉的判断结果",
+                "create-time": 1623483736012,
+                "uid": "W7GdAcUgm",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "gsAvXAv3G",
+            "edit-time": 1623483736024,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "慢系统 和 快系统",
+            "create-time": 1623483736012,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "快系统： 遇到危险时，先使用快系统判断",
+                "create-time": 1623483736012,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "string": "晚上看到一条绳子 -- 像蛇，先躲开，再判断是什么。",
+                    "create-time": 1623483736012,
+                    "uid": "yLAj1bDAn",
+                    "edit-time": 1623483736024,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "gQsGfUWsV",
+                "edit-time": 1623483736024,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "慢系统： 理性决策",
+                "create-time": 1623483736012,
+                "uid": "ZPJ-sVkI2",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "1EaK9m-dg",
+            "edit-time": 1623483736024,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "把“没办法”变成“有办法”的解决方法",
+            "create-time": 1623483736012,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "对快系统说：慢一点，你给我的只是一个想法，不一定是真的。",
+                "create-time": 1623483736012,
+                "uid": "_hsJV0oOs",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "不要理会快系统发出的声音，就可以多坚持一会儿",
+                "create-time": 1623483736012,
+                "uid": "iqZHiTbwu",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "我们要的是接近事实真象的部分，这种情况下，很多原来认为不可能的，现在也可以变得有迹可循。",
+                "create-time": 1623483736012,
+                "uid": "yL2qTV45s",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "ppxryWEE-",
+            "edit-time": 1623483736024,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "练习：",
+            "create-time": 1623483736012,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "与自动化声音共处",
+                "create-time": 1623483736012,
+                "uid": "8XH4GJkam",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "① 想象最近最困难的事情， 最困难的那个点。很聚焦的一个点。",
+                "create-time": 1623483736012,
+                "uid": "DSlX8Aljg",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "② 把这个声音记下来： 做不到，开不了口，胜任不了 。",
+                "create-time": 1623483736012,
+                "uid": "vWpViNrn_",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "Kx8yGtnUW",
+            "edit-time": 1623483736024,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "试着对自己反复说这句话 ：",
+            "create-time": 1623483736012,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "每重复一次都告诉自己，这只是一­个声音。不管你有多相信这是一个 事实，只管重复。",
+                "create-time": 1623483736012,
+                "uid": "J8l_UR_2e",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "把这个声音变成一个背景音乐，带­着它去做想做的事情 。",
+                "create-time": 1623483736012,
+                "uid": "xGEl6QHSL",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "很多事我们都能故到，唯一的阻力只是我们自己的想法。",
+                "create-time": 1623483736012,
+                "uid": "uNuBWGDdc",
+                "edit-time": 1623483736024,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "nmXJ7iPgA",
+            "edit-time": 1623483736024,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          }
+        ],
+        "uid": "2FsQ0gIKU",
+        "edit-time": 1623504144911,
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      },
+      {
+        "string": " 想法改变现实，想法和现实哪个重要？",
+        "create-time": 1623482739247,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        },
+        "children": [
+          {
+            "string": "想法可以改变现实",
+            "create-time": 1623483186208,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "想法可以改变现实：股票涨跌过程中，你的购买也会影响股票的涨跌。",
+                "create-time": 1623483186208,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "string": "这是一种自我实现的预言",
+                    "create-time": 1623483186208,
+                    "uid": "ArMBGtPYB",
+                    "edit-time": 1623483186219,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "0FTRigPTU",
+                "edit-time": 1623483186219,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "想改改变现实的核心: 行动",
+                "create-time": 1623483186208,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "string": "想法是通过行动改变了现实",
+                    "create-time": 1623483186208,
+                    "uid": "1wVCq0-P8",
+                    "edit-time": 1623483186219,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "GAsLB58Pa",
+                "edit-time": 1623483186219,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "每个人都在通过行动创造现实：想法→行动 →现实",
+                "create-time": 1623483186208,
+                "uid": "xmDOJyQhR",
+                "edit-time": 1623483186219,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "nXPNQEkgd",
+            "edit-time": 1623483186219,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "向下的螺旋",
+            "create-time": 1623483186208,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "认为自己失败 -> 产生抑郁情绪 -> 无力感、失去兴趣、精力减退 -> 无力完成本来能完成的事 -> 认为自己失败",
+                "create-time": 1623483186208,
+                "uid": "8Krci_s2W",
+                "edit-time": 1623483186219,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "P9gU6kuMz",
+            "edit-time": 1623483186219,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "![Image.png](https://res.craft.do/user/full/4477412d-cb3e-f50e-3e41-7c7871faf3d3/doc/DF677BFC-9D30-4CE2-827C-04B8E4E1B103/7F3EC0E7-1FF8-429A-9BA6-6179E0CFD807_2/Image.png)",
+            "create-time": 1623483186208,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "一但开启就停不下来",
+                "create-time": 1623483186208,
+                "uid": "RjQtBApMK",
+                "edit-time": 1623483186219,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "rrbkkC7ct",
+            "edit-time": 1623483186219,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "三个变量（认知三角形）",
+            "create-time": 1623483186208,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "认知 -> 情绪 -> 行为",
+                "create-time": 1623483186208,
+                "uid": "pEdolgrmj",
+                "edit-time": 1623483186219,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "A_v5sVPPz",
+            "edit-time": 1623483186219,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "![Image.png](https://res.craft.do/user/full/4477412d-cb3e-f50e-3e41-7c7871faf3d3/doc/DF677BFC-9D30-4CE2-827C-04B8E4E1B103/B5FCB35D-ED78-40F7-BCAE-7AD3559267CD_2/Image.png)",
+            "create-time": 1623483186208,
+            "uid": "Bt2cRwnbD",
+            "edit-time": 1623483186219,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "事实本就如此？",
+            "create-time": 1623483186208,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "事实会根据你的想法变化，变化的过程就是想法 → 情绪 → 行为三角的交替过程。",
+                "create-time": 1623483186208,
+                "uid": "UgFcqDnmP",
+                "edit-time": 1623483186219,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "R_-JCAblu",
+            "edit-time": 1623483186219,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": "情绪上干劲十足，行动上积极进取很容易做到？",
+            "create-time": 1623483186208,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "先看到规律、研究它、改变它。",
+                "create-time": 1623483186208,
+                "uid": "XOSk21jre",
+                "edit-time": 1623483186219,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "改变的第一步： 是注意自己的这些想法",
+                "create-time": 1623483186208,
+                "uid": "c-0zVOkx0",
+                "edit-time": 1623483186219,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "Ir1AvkUe7",
+            "edit-time": 1623483186219,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          },
+          {
+            "string": " 练习",
+            "create-time": 1623483472720,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            },
+            "children": [
+              {
+                "string": "我是谁？ →定位参照系",
+                "create-time": 1623483186208,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "string": "几个方面",
+                    "create-time": 1623483186208,
+                    "uid": "2y2EmNEON",
+                    "edit-time": 1623483186219,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "独特性，不是姓名。不是岗位",
+                    "create-time": 1623483186208,
+                    "uid": "-drJHYuPm",
+                    "edit-time": 1623483186219,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "兴趣：天才、改变世界？",
+                    "create-time": 1623483186208,
+                    "uid": "9RFZAQLD1",
+                    "edit-time": 1623483186219,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "情绪：屌丝，无用幽默 严肃，有价值",
+                    "create-time": 1623483186208,
+                    "uid": "OOVrVUUxF",
+                    "edit-time": 1623483186219,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  },
+                  {
+                    "string": "自我身份认同：根自我有关的印象 。",
+                    "create-time": 1623483186208,
+                    "uid": "aBJJOVUdF",
+                    "edit-time": 1623483186219,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "tpCfe9i-L",
+                "edit-time": 1623483186219,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "我从哪里来？",
+                "create-time": 1623483186208,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "string": "过去影响你的部分：经验",
+                    "create-time": 1623483186208,
+                    "uid": "7RIEL__-J",
+                    "edit-time": 1623483186219,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "sQ6jQhzal",
+                "edit-time": 1623483186219,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              },
+              {
+                "string": "我来干什么？",
+                "create-time": 1623483186208,
+                ":create/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                },
+                "children": [
+                  {
+                    "string": "享乐：受苦？做一番事业？ 寻找意义",
+                    "create-time": 1623483186208,
+                    "uid": "bEZabQFUK",
+                    "edit-time": 1623483601106,
+                    ":create/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                    }
+                  }
+                ],
+                "uid": "ma9xyzWgw",
+                "edit-time": 1623483186219,
+                ":edit/user": {
+                  ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+                }
+              }
+            ],
+            "uid": "q6gFNyo6A",
+            "edit-time": 1623483488866,
+            ":edit/user": {
+              ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+            }
+          }
+        ],
+        "uid": "GZzlsFfn0",
+        "edit-time": 1623483353727,
+        ":edit/user": {
+          ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+        }
+      }
+    ],
+    "uid": "-N7Kcv9PG",
+    "edit-time": 1623504005072,
     ":edit/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     }
