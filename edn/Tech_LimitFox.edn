@@ -483,7 +483,7 @@
   [342 :edit/time 1622700672426 536871294]
   [342 :edit/user 3 536871293]
   [343 :block/children 392 536871313]
-  [343 :block/open true 536871295]
+  [343 :block/open true 536876800]
   [343 :block/order 0 536871244]
   [343 :block/page 647 536875628]
   [343 :block/parents 326 536875606]
@@ -4737,8 +4737,8 @@
   [738 :version/id "0.8.6" 536876369]
   [738
    :version/nonce
-   "uuid913533ce-41a8-4e47-9b93-e72d0f6c0470"
-   536876798]
+   "uuid6c5c8cd4-10b9-445b-97e9-c57d16df6ac9"
+   536876800]
   [739 :block/open true 536876375]
   [739 :block/order 0 536876387]
   [739 :block/page 737 536876376]
