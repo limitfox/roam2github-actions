@@ -512,7 +512,7 @@
   [344 :create/user 3 536871244]
   [346 :block/children 353 536871244]
   [346 :block/children 354 536871244]
-  [346 :block/open false 536874948]
+  [346 :block/open true 536876803]
   [346 :block/order 0 536871244]
   [346 :block/page 647 536875607]
   [346 :block/parents 327 536875607]
@@ -527,7 +527,7 @@
   [347 :block/children 356 536871244]
   [347 :block/children 357 536871244]
   [347 :block/children 358 536871244]
-  [347 :block/open false 536874949]
+  [347 :block/open true 536876804]
   [347 :block/order 1 536871244]
   [347 :block/page 647 536875607]
   [347 :block/parents 327 536875607]
@@ -542,7 +542,7 @@
   [348 :block/children 365 536871244]
   [348 :block/children 366 536871244]
   [348 :block/children 367 536871244]
-  [348 :block/open false 536874950]
+  [348 :block/open true 536876805]
   [348 :block/order 2 536871244]
   [348 :block/page 647 536875607]
   [348 :block/parents 327 536875607]
@@ -554,7 +554,7 @@
   [349 :block/children 369 536871244]
   [349 :block/children 370 536871244]
   [349 :block/children 393 536871415]
-  [349 :block/open false 536874951]
+  [349 :block/open true 536876806]
   [349 :block/order 3 536871244]
   [349 :block/page 647 536875607]
   [349 :block/parents 327 536875607]
@@ -4737,8 +4737,8 @@
   [738 :version/id "0.8.6" 536876369]
   [738
    :version/nonce
-   "uuid6c5c8cd4-10b9-445b-97e9-c57d16df6ac9"
-   536876800]
+   "uuid0ca691b1-2a85-40f0-86d1-bf25e551b49c"
+   536876806]
   [739 :block/open true 536876375]
   [739 :block/order 0 536876387]
   [739 :block/page 737 536876376]
