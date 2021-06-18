@@ -5579,5 +5579,17 @@
     ":edit/user": {
       ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
     }
+  },
+  {
+    "create-time": 1623977518561,
+    "title": "June 18th, 2021",
+    "uid": "06-18-2021",
+    "edit-time": 1623977518561,
+    ":create/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    },
+    ":edit/user": {
+      ":user/uid": "TdNrA9YOgWT9hArrkWo9qQlVye62"
+    }
   }
 ]
